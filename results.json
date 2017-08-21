@@ -1,0 +1,2782 @@
+{"index":{"_index":"elections","_type":"act","_id":0}}
+{"departement":"Ain","candidat":"Marine LE PEN","voix":81455,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1}}
+{"departement":"Ain","candidat":"Emmanuel MACRON","voix":73692,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":2}}
+{"departement":"Ain","candidat":"François FILLON","voix":69804,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":3}}
+{"departement":"Ain","candidat":"Jean-Luc MELENCHON","voix":51736,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":4}}
+{"departement":"Ain","candidat":"Nicolas DUPONT-AIGNAN","voix":19788,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":5}}
+{"departement":"Ain","candidat":"Benoît HAMON","voix":16711,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":6}}
+{"departement":"Ain","candidat":"François ASSELINEAU","voix":3612,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":7}}
+{"departement":"Ain","candidat":"Jean LASSALLE","voix":3465,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":8}}
+{"departement":"Ain","candidat":"Philippe POUTOU","voix":3098,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":9}}
+{"departement":"Ain","candidat":"Nathalie ARTHAUD","voix":1842,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":10}}
+{"departement":"Ain","candidat":"Jacques CHEMINADE","voix":595,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":11}}
+{"departement":"Ain","candidat":"Votes blancs","voix":6342,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":12}}
+{"departement":"Ain","candidat":"Votes nuls","voix":2239,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":13}}
+{"departement":"Aisne","candidat":"Marine LE PEN","voix":102787,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":14}}
+{"departement":"Aisne","candidat":"Emmanuel MACRON","voix":51693,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":15}}
+{"departement":"Aisne","candidat":"Jean-Luc MELENCHON","voix":48959,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":16}}
+{"departement":"Aisne","candidat":"François FILLON","voix":46985,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":17}}
+{"departement":"Aisne","candidat":"Nicolas DUPONT-AIGNAN","voix":14652,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":18}}
+{"departement":"Aisne","candidat":"Benoît HAMON","voix":12231,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":19}}
+{"departement":"Aisne","candidat":"Philippe POUTOU","voix":3156,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":20}}
+{"departement":"Aisne","candidat":"Nathalie ARTHAUD","voix":2764,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":21}}
+{"departement":"Aisne","candidat":"Jean LASSALLE","voix":2265,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":22}}
+{"departement":"Aisne","candidat":"François ASSELINEAU","voix":2171,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":23}}
+{"departement":"Aisne","candidat":"Jacques CHEMINADE","voix":536,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":24}}
+{"departement":"Aisne","candidat":"Votes blancs","voix":5047,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":25}}
+{"departement":"Aisne","candidat":"Votes nuls","voix":2323,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":26}}
+{"departement":"Allier","candidat":"Emmanuel MACRON","voix":45744,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":27}}
+{"departement":"Allier","candidat":"Marine LE PEN","voix":43071,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":28}}
+{"departement":"Allier","candidat":"Jean-Luc MELENCHON","voix":38324,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":29}}
+{"departement":"Allier","candidat":"François FILLON","voix":36499,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":30}}
+{"departement":"Allier","candidat":"Benoît HAMON","voix":10639,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":31}}
+{"departement":"Allier","candidat":"Nicolas DUPONT-AIGNAN","voix":9819,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":32}}
+{"departement":"Allier","candidat":"Jean LASSALLE","voix":2988,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":33}}
+{"departement":"Allier","candidat":"Philippe POUTOU","voix":2328,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":34}}
+{"departement":"Allier","candidat":"Nathalie ARTHAUD","voix":1543,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":35}}
+{"departement":"Allier","candidat":"François ASSELINEAU","voix":1483,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":36}}
+{"departement":"Allier","candidat":"Jacques CHEMINADE","voix":355,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":37}}
+{"departement":"Allier","candidat":"Votes blancs","voix":4240,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":38}}
+{"departement":"Allier","candidat":"Votes nuls","voix":2556,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":39}}
+{"departement":"Alpes-de-Haute-Provence","candidat":"Marine LE PEN","voix":24463,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":40}}
+{"departement":"Alpes-de-Haute-Provence","candidat":"Jean-Luc MELENCHON","voix":22448,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":41}}
+{"departement":"Alpes-de-Haute-Provence","candidat":"Emmanuel MACRON","voix":19960,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":42}}
+{"departement":"Alpes-de-Haute-Provence","candidat":"François FILLON","voix":18442,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":43}}
+{"departement":"Alpes-de-Haute-Provence","candidat":"Benoît HAMON","voix":4983,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":44}}
+{"departement":"Alpes-de-Haute-Provence","candidat":"Nicolas DUPONT-AIGNAN","voix":4860,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":45}}
+{"departement":"Alpes-de-Haute-Provence","candidat":"Jean LASSALLE","voix":1721,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":46}}
+{"departement":"Alpes-de-Haute-Provence","candidat":"Philippe POUTOU","voix":1178,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":47}}
+{"departement":"Alpes-de-Haute-Provence","candidat":"François ASSELINEAU","voix":932,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":48}}
+{"departement":"Alpes-de-Haute-Provence","candidat":"Nathalie ARTHAUD","voix":521,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":49}}
+{"departement":"Alpes-de-Haute-Provence","candidat":"Jacques CHEMINADE","voix":205,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":50}}
+{"departement":"Alpes-de-Haute-Provence","candidat":"Votes blancs","voix":1801,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":51}}
+{"departement":"Alpes-de-Haute-Provence","candidat":"Votes nuls","voix":743,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":52}}
+{"departement":"Hautes-Alpes","candidat":"Emmanuel MACRON","voix":18948,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":53}}
+{"departement":"Hautes-Alpes","candidat":"Jean-Luc MELENCHON","voix":18796,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":54}}
+{"departement":"Hautes-Alpes","candidat":"Marine LE PEN","voix":18474,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":55}}
+{"departement":"Hautes-Alpes","candidat":"François FILLON","voix":16645,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":56}}
+{"departement":"Hautes-Alpes","candidat":"Benoît HAMON","voix":5109,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":57}}
+{"departement":"Hautes-Alpes","candidat":"Nicolas DUPONT-AIGNAN","voix":4938,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":58}}
+{"departement":"Hautes-Alpes","candidat":"Jean LASSALLE","voix":1609,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":59}}
+{"departement":"Hautes-Alpes","candidat":"Philippe POUTOU","voix":1049,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":60}}
+{"departement":"Hautes-Alpes","candidat":"François ASSELINEAU","voix":783,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":61}}
+{"departement":"Hautes-Alpes","candidat":"Nathalie ARTHAUD","voix":411,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":62}}
+{"departement":"Hautes-Alpes","candidat":"Jacques CHEMINADE","voix":165,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":63}}
+{"departement":"Hautes-Alpes","candidat":"Votes blancs","voix":1541,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":64}}
+{"departement":"Hautes-Alpes","candidat":"Votes nuls","voix":618,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":65}}
+{"departement":"Alpes-Maritimes","candidat":"Marine LE PEN","voix":163140,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":66}}
+{"departement":"Alpes-Maritimes","candidat":"François FILLON","voix":161035,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":67}}
+{"departement":"Alpes-Maritimes","candidat":"Emmanuel MACRON","voix":111944,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":68}}
+{"departement":"Alpes-Maritimes","candidat":"Jean-Luc MELENCHON","voix":87941,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":69}}
+{"departement":"Alpes-Maritimes","candidat":"Nicolas DUPONT-AIGNAN","voix":25175,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":70}}
+{"departement":"Alpes-Maritimes","candidat":"Benoît HAMON","voix":21066,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":71}}
+{"departement":"Alpes-Maritimes","candidat":"François ASSELINEAU","voix":6067,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":72}}
+{"departement":"Alpes-Maritimes","candidat":"Jean LASSALLE","voix":5262,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":73}}
+{"departement":"Alpes-Maritimes","candidat":"Philippe POUTOU","voix":3622,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":74}}
+{"departement":"Alpes-Maritimes","candidat":"Nathalie ARTHAUD","voix":1729,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":75}}
+{"departement":"Alpes-Maritimes","candidat":"Jacques CHEMINADE","voix":939,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":76}}
+{"departement":"Alpes-Maritimes","candidat":"Votes blancs","voix":9005,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":77}}
+{"departement":"Alpes-Maritimes","candidat":"Votes nuls","voix":2931,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":78}}
+{"departement":"Ardèche","candidat":"Marine LE PEN","voix":45588,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":79}}
+{"departement":"Ardèche","candidat":"Jean-Luc MELENCHON","voix":42880,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":80}}
+{"departement":"Ardèche","candidat":"Emmanuel MACRON","voix":42703,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":81}}
+{"departement":"Ardèche","candidat":"François FILLON","voix":34182,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":82}}
+{"departement":"Ardèche","candidat":"Benoît HAMON","voix":11844,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":83}}
+{"departement":"Ardèche","candidat":"Nicolas DUPONT-AIGNAN","voix":9994,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":84}}
+{"departement":"Ardèche","candidat":"Jean LASSALLE","voix":3581,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":85}}
+{"departement":"Ardèche","candidat":"Philippe POUTOU","voix":2623,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":86}}
+{"departement":"Ardèche","candidat":"François ASSELINEAU","voix":1985,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":87}}
+{"departement":"Ardèche","candidat":"Nathalie ARTHAUD","voix":1317,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":88}}
+{"departement":"Ardèche","candidat":"Jacques CHEMINADE","voix":376,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":89}}
+{"departement":"Ardèche","candidat":"Votes blancs","voix":3901,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":90}}
+{"departement":"Ardèche","candidat":"Votes nuls","voix":1667,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":91}}
+{"departement":"Ardennes","candidat":"Marine LE PEN","voix":47578,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":92}}
+{"departement":"Ardennes","candidat":"Emmanuel MACRON","voix":26912,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":93}}
+{"departement":"Ardennes","candidat":"Jean-Luc MELENCHON","voix":26172,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":94}}
+{"departement":"Ardennes","candidat":"François FILLON","voix":25273,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":95}}
+{"departement":"Ardennes","candidat":"Nicolas DUPONT-AIGNAN","voix":7810,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":96}}
+{"departement":"Ardennes","candidat":"Benoît HAMON","voix":7234,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":97}}
+{"departement":"Ardennes","candidat":"Philippe POUTOU","voix":1693,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":98}}
+{"departement":"Ardennes","candidat":"Jean LASSALLE","voix":1406,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":99}}
+{"departement":"Ardennes","candidat":"Nathalie ARTHAUD","voix":1378,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":100}}
+{"departement":"Ardennes","candidat":"François ASSELINEAU","voix":1080,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":101}}
+{"departement":"Ardennes","candidat":"Jacques CHEMINADE","voix":267,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":102}}
+{"departement":"Ardennes","candidat":"Votes blancs","voix":2528,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":103}}
+{"departement":"Ardennes","candidat":"Votes nuls","voix":972,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":104}}
+{"departement":"Ariège","candidat":"Jean-Luc MELENCHON","voix":25000,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":105}}
+{"departement":"Ariège","candidat":"Marine LE PEN","voix":20264,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":106}}
+{"departement":"Ariège","candidat":"Emmanuel MACRON","voix":19529,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":107}}
+{"departement":"Ariège","candidat":"François FILLON","voix":11901,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":108}}
+{"departement":"Ariège","candidat":"Benoît HAMON","voix":7339,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":109}}
+{"departement":"Ariège","candidat":"Nicolas DUPONT-AIGNAN","voix":3371,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":110}}
+{"departement":"Ariège","candidat":"Jean LASSALLE","voix":3305,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":111}}
+{"departement":"Ariège","candidat":"Philippe POUTOU","voix":1183,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":112}}
+{"departement":"Ariège","candidat":"François ASSELINEAU","voix":799,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":113}}
+{"departement":"Ariège","candidat":"Nathalie ARTHAUD","voix":557,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":114}}
+{"departement":"Ariège","candidat":"Jacques CHEMINADE","voix":140,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":115}}
+{"departement":"Ariège","candidat":"Votes blancs","voix":1722,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":116}}
+{"departement":"Ariège","candidat":"Votes nuls","voix":907,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":117}}
+{"departement":"Aube","candidat":"Marine LE PEN","voix":48844,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":118}}
+{"departement":"Aube","candidat":"François FILLON","voix":37123,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":119}}
+{"departement":"Aube","candidat":"Emmanuel MACRON","voix":30564,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":120}}
+{"departement":"Aube","candidat":"Jean-Luc MELENCHON","voix":22482,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":121}}
+{"departement":"Aube","candidat":"Nicolas DUPONT-AIGNAN","voix":10234,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":122}}
+{"departement":"Aube","candidat":"Benoît HAMON","voix":6544,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":123}}
+{"departement":"Aube","candidat":"Philippe POUTOU","voix":1386,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":124}}
+{"departement":"Aube","candidat":"François ASSELINEAU","voix":1333,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":125}}
+{"departement":"Aube","candidat":"Jean LASSALLE","voix":1158,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":126}}
+{"departement":"Aube","candidat":"Nathalie ARTHAUD","voix":1107,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":127}}
+{"departement":"Aube","candidat":"Jacques CHEMINADE","voix":288,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":128}}
+{"departement":"Aube","candidat":"Votes blancs","voix":2734,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":129}}
+{"departement":"Aube","candidat":"Votes nuls","voix":1100,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":130}}
+{"departement":"Aude","candidat":"Marine LE PEN","voix":60584,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":131}}
+{"departement":"Aude","candidat":"Jean-Luc MELENCHON","voix":46123,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":132}}
+{"departement":"Aude","candidat":"Emmanuel MACRON","voix":43012,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":133}}
+{"departement":"Aude","candidat":"François FILLON","voix":32280,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":134}}
+{"departement":"Aude","candidat":"Benoît HAMON","voix":13614,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":135}}
+{"departement":"Aude","candidat":"Nicolas DUPONT-AIGNAN","voix":8265,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":136}}
+{"departement":"Aude","candidat":"Jean LASSALLE","voix":4642,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":137}}
+{"departement":"Aude","candidat":"Philippe POUTOU","voix":2507,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":138}}
+{"departement":"Aude","candidat":"François ASSELINEAU","voix":1783,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":139}}
+{"departement":"Aude","candidat":"Nathalie ARTHAUD","voix":1195,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":140}}
+{"departement":"Aude","candidat":"Jacques CHEMINADE","voix":348,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":141}}
+{"departement":"Aude","candidat":"Votes blancs","voix":3848,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":142}}
+{"departement":"Aude","candidat":"Votes nuls","voix":1956,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":143}}
+{"departement":"Aveyron","candidat":"Emmanuel MACRON","voix":45583,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":144}}
+{"departement":"Aveyron","candidat":"François FILLON","voix":36664,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":145}}
+{"departement":"Aveyron","candidat":"Jean-Luc MELENCHON","voix":34689,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":146}}
+{"departement":"Aveyron","candidat":"Marine LE PEN","voix":28588,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":147}}
+{"departement":"Aveyron","candidat":"Benoît HAMON","voix":10878,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":148}}
+{"departement":"Aveyron","candidat":"Nicolas DUPONT-AIGNAN","voix":8554,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":149}}
+{"departement":"Aveyron","candidat":"Jean LASSALLE","voix":6461,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":150}}
+{"departement":"Aveyron","candidat":"Philippe POUTOU","voix":2322,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":151}}
+{"departement":"Aveyron","candidat":"François ASSELINEAU","voix":1304,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":152}}
+{"departement":"Aveyron","candidat":"Nathalie ARTHAUD","voix":1106,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":153}}
+{"departement":"Aveyron","candidat":"Jacques CHEMINADE","voix":313,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":154}}
+{"departement":"Aveyron","candidat":"Votes blancs","voix":3545,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":155}}
+{"departement":"Aveyron","candidat":"Votes nuls","voix":1891,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":156}}
+{"departement":"Bouches-du-Rhône","candidat":"Marine LE PEN","voix":286397,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":157}}
+{"departement":"Bouches-du-Rhône","candidat":"Jean-Luc MELENCHON","voix":231194,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":158}}
+{"departement":"Bouches-du-Rhône","candidat":"François FILLON","voix":207467,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":159}}
+{"departement":"Bouches-du-Rhône","candidat":"Emmanuel MACRON","voix":203312,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":160}}
+{"departement":"Bouches-du-Rhône","candidat":"Benoît HAMON","voix":47564,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":161}}
+{"departement":"Bouches-du-Rhône","candidat":"Nicolas DUPONT-AIGNAN","voix":40447,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":162}}
+{"departement":"Bouches-du-Rhône","candidat":"Jean LASSALLE","voix":10040,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":163}}
+{"departement":"Bouches-du-Rhône","candidat":"François ASSELINEAU","voix":9418,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":164}}
+{"departement":"Bouches-du-Rhône","candidat":"Philippe POUTOU","voix":8006,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":165}}
+{"departement":"Bouches-du-Rhône","candidat":"Nathalie ARTHAUD","voix":4114,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":166}}
+{"departement":"Bouches-du-Rhône","candidat":"Jacques CHEMINADE","voix":1740,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":167}}
+{"departement":"Bouches-du-Rhône","candidat":"Votes blancs","voix":16554,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":168}}
+{"departement":"Bouches-du-Rhône","candidat":"Votes nuls","voix":5995,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":169}}
+{"departement":"Calvados","candidat":"Emmanuel MACRON","voix":99716,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":170}}
+{"departement":"Calvados","candidat":"François FILLON","voix":82338,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":171}}
+{"departement":"Calvados","candidat":"Marine LE PEN","voix":81767,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":172}}
+{"departement":"Calvados","candidat":"Jean-Luc MELENCHON","voix":75618,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":173}}
+{"departement":"Calvados","candidat":"Benoît HAMON","voix":27293,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":174}}
+{"departement":"Calvados","candidat":"Nicolas DUPONT-AIGNAN","voix":20078,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":175}}
+{"departement":"Calvados","candidat":"Philippe POUTOU","voix":5269,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":176}}
+{"departement":"Calvados","candidat":"Nathalie ARTHAUD","voix":3098,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":177}}
+{"departement":"Calvados","candidat":"Jean LASSALLE","voix":2911,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":178}}
+{"departement":"Calvados","candidat":"François ASSELINEAU","voix":2830,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":179}}
+{"departement":"Calvados","candidat":"Jacques CHEMINADE","voix":691,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":180}}
+{"departement":"Calvados","candidat":"Votes blancs","voix":6291,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":181}}
+{"departement":"Calvados","candidat":"Votes nuls","voix":3040,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":182}}
+{"departement":"Cantal","candidat":"Emmanuel MACRON","voix":24483,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":183}}
+{"departement":"Cantal","candidat":"François FILLON","voix":21589,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":184}}
+{"departement":"Cantal","candidat":"Marine LE PEN","voix":16635,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":185}}
+{"departement":"Cantal","candidat":"Jean-Luc MELENCHON","voix":14566,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":186}}
+{"departement":"Cantal","candidat":"Benoît HAMON","voix":4810,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":187}}
+{"departement":"Cantal","candidat":"Nicolas DUPONT-AIGNAN","voix":4047,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":188}}
+{"departement":"Cantal","candidat":"Jean LASSALLE","voix":2840,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":189}}
+{"departement":"Cantal","candidat":"Philippe POUTOU","voix":1179,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":190}}
+{"departement":"Cantal","candidat":"Nathalie ARTHAUD","voix":692,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":191}}
+{"departement":"Cantal","candidat":"François ASSELINEAU","voix":527,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":192}}
+{"departement":"Cantal","candidat":"Jacques CHEMINADE","voix":198,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":193}}
+{"departement":"Cantal","candidat":"Votes blancs","voix":2113,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":194}}
+{"departement":"Cantal","candidat":"Votes nuls","voix":979,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":195}}
+{"departement":"Charente","candidat":"Emmanuel MACRON","voix":49889,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":196}}
+{"departement":"Charente","candidat":"Marine LE PEN","voix":42598,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":197}}
+{"departement":"Charente","candidat":"Jean-Luc MELENCHON","voix":40755,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":198}}
+{"departement":"Charente","candidat":"François FILLON","voix":33744,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":199}}
+{"departement":"Charente","candidat":"Benoît HAMON","voix":12569,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":200}}
+{"departement":"Charente","candidat":"Nicolas DUPONT-AIGNAN","voix":10008,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":201}}
+{"departement":"Charente","candidat":"Jean LASSALLE","voix":3085,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":202}}
+{"departement":"Charente","candidat":"Philippe POUTOU","voix":2724,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":203}}
+{"departement":"Charente","candidat":"Nathalie ARTHAUD","voix":1651,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":204}}
+{"departement":"Charente","candidat":"François ASSELINEAU","voix":1540,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":205}}
+{"departement":"Charente","candidat":"Jacques CHEMINADE","voix":450,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":206}}
+{"departement":"Charente","candidat":"Votes blancs","voix":3736,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":207}}
+{"departement":"Charente","candidat":"Votes nuls","voix":2225,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":208}}
+{"departement":"Charente-Maritime","candidat":"Emmanuel MACRON","voix":91392,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":209}}
+{"departement":"Charente-Maritime","candidat":"Marine LE PEN","voix":80822,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":210}}
+{"departement":"Charente-Maritime","candidat":"François FILLON","voix":78689,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":211}}
+{"departement":"Charente-Maritime","candidat":"Jean-Luc MELENCHON","voix":72534,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":212}}
+{"departement":"Charente-Maritime","candidat":"Benoît HAMON","voix":22033,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":213}}
+{"departement":"Charente-Maritime","candidat":"Nicolas DUPONT-AIGNAN","voix":20349,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":214}}
+{"departement":"Charente-Maritime","candidat":"Jean LASSALLE","voix":5282,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":215}}
+{"departement":"Charente-Maritime","candidat":"Philippe POUTOU","voix":4878,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":216}}
+{"departement":"Charente-Maritime","candidat":"François ASSELINEAU","voix":3020,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":217}}
+{"departement":"Charente-Maritime","candidat":"Nathalie ARTHAUD","voix":2576,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":218}}
+{"departement":"Charente-Maritime","candidat":"Jacques CHEMINADE","voix":693,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":219}}
+{"departement":"Charente-Maritime","candidat":"Votes blancs","voix":6836,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":220}}
+{"departement":"Charente-Maritime","candidat":"Votes nuls","voix":2916,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":221}}
+{"departement":"Cher","candidat":"Marine LE PEN","voix":41753,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":222}}
+{"departement":"Cher","candidat":"Emmanuel MACRON","voix":38075,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":223}}
+{"departement":"Cher","candidat":"Jean-Luc MELENCHON","voix":33693,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":224}}
+{"departement":"Cher","candidat":"François FILLON","voix":32966,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":225}}
+{"departement":"Cher","candidat":"Nicolas DUPONT-AIGNAN","voix":9554,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":226}}
+{"departement":"Cher","candidat":"Benoît HAMON","voix":9157,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":227}}
+{"departement":"Cher","candidat":"Philippe POUTOU","voix":2106,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":228}}
+{"departement":"Cher","candidat":"Jean LASSALLE","voix":1925,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":229}}
+{"departement":"Cher","candidat":"Nathalie ARTHAUD","voix":1630,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":230}}
+{"departement":"Cher","candidat":"François ASSELINEAU","voix":1479,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":231}}
+{"departement":"Cher","candidat":"Jacques CHEMINADE","voix":345,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":232}}
+{"departement":"Cher","candidat":"Votes blancs","voix":3996,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":233}}
+{"departement":"Cher","candidat":"Votes nuls","voix":1394,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":234}}
+{"departement":"Corrèze","candidat":"Emmanuel MACRON","voix":39218,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":235}}
+{"departement":"Corrèze","candidat":"Jean-Luc MELENCHON","voix":30357,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":236}}
+{"departement":"Corrèze","candidat":"François FILLON","voix":25427,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":237}}
+{"departement":"Corrèze","candidat":"Marine LE PEN","voix":25253,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":238}}
+{"departement":"Corrèze","candidat":"Benoît HAMON","voix":9263,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":239}}
+{"departement":"Corrèze","candidat":"Nicolas DUPONT-AIGNAN","voix":7049,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":240}}
+{"departement":"Corrèze","candidat":"Jean LASSALLE","voix":4253,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":241}}
+{"departement":"Corrèze","candidat":"Philippe POUTOU","voix":2319,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":242}}
+{"departement":"Corrèze","candidat":"François ASSELINEAU","voix":1094,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":243}}
+{"departement":"Corrèze","candidat":"Nathalie ARTHAUD","voix":1051,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":244}}
+{"departement":"Corrèze","candidat":"Jacques CHEMINADE","voix":329,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":245}}
+{"departement":"Corrèze","candidat":"Votes blancs","voix":3427,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":246}}
+{"departement":"Corrèze","candidat":"Votes nuls","voix":1938,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":247}}
+{"departement":"Côte-d'Or","candidat":"Emmanuel MACRON","voix":67436,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":248}}
+{"departement":"Côte-d'Or","candidat":"Marine LE PEN","voix":64202,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":249}}
+{"departement":"Côte-d'Or","candidat":"François FILLON","voix":60624,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":250}}
+{"departement":"Côte-d'Or","candidat":"Jean-Luc MELENCHON","voix":50859,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":251}}
+{"departement":"Côte-d'Or","candidat":"Benoît HAMON","voix":16810,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":252}}
+{"departement":"Côte-d'Or","candidat":"Nicolas DUPONT-AIGNAN","voix":14980,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":253}}
+{"departement":"Côte-d'Or","candidat":"Philippe POUTOU","voix":2818,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":254}}
+{"departement":"Côte-d'Or","candidat":"Jean LASSALLE","voix":2635,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":255}}
+{"departement":"Côte-d'Or","candidat":"François ASSELINEAU","voix":2457,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":256}}
+{"departement":"Côte-d'Or","candidat":"Nathalie ARTHAUD","voix":1795,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":257}}
+{"departement":"Côte-d'Or","candidat":"Jacques CHEMINADE","voix":509,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":258}}
+{"departement":"Côte-d'Or","candidat":"Votes blancs","voix":5134,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":259}}
+{"departement":"Côte-d'Or","candidat":"Votes nuls","voix":1721,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":260}}
+{"departement":"Côtes-d'Armor","candidat":"Emmanuel MACRON","voix":104969,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":261}}
+{"departement":"Côtes-d'Armor","candidat":"Jean-Luc MELENCHON","voix":76013,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":262}}
+{"departement":"Côtes-d'Armor","candidat":"François FILLON","voix":68916,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":263}}
+{"departement":"Côtes-d'Armor","candidat":"Marine LE PEN","voix":61703,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":264}}
+{"departement":"Côtes-d'Armor","candidat":"Benoît HAMON","voix":32260,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":265}}
+{"departement":"Côtes-d'Armor","candidat":"Nicolas DUPONT-AIGNAN","voix":15958,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":266}}
+{"departement":"Côtes-d'Armor","candidat":"Philippe POUTOU","voix":5468,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":267}}
+{"departement":"Côtes-d'Armor","candidat":"Jean LASSALLE","voix":3554,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":268}}
+{"departement":"Côtes-d'Armor","candidat":"Nathalie ARTHAUD","voix":3028,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":269}}
+{"departement":"Côtes-d'Armor","candidat":"François ASSELINEAU","voix":2479,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":270}}
+{"departement":"Côtes-d'Armor","candidat":"Jacques CHEMINADE","voix":621,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":271}}
+{"departement":"Côtes-d'Armor","candidat":"Votes blancs","voix":6362,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":272}}
+{"departement":"Côtes-d'Armor","candidat":"Votes nuls","voix":3009,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":273}}
+{"departement":"Creuse","candidat":"Emmanuel MACRON","voix":15807,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":274}}
+{"departement":"Creuse","candidat":"Jean-Luc MELENCHON","voix":14827,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":275}}
+{"departement":"Creuse","candidat":"Marine LE PEN","voix":13966,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":276}}
+{"departement":"Creuse","candidat":"François FILLON","voix":12637,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":277}}
+{"departement":"Creuse","candidat":"Benoît HAMON","voix":5494,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":278}}
+{"departement":"Creuse","candidat":"Nicolas DUPONT-AIGNAN","voix":3521,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":279}}
+{"departement":"Creuse","candidat":"Jean LASSALLE","voix":1352,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":280}}
+{"departement":"Creuse","candidat":"Philippe POUTOU","voix":1209,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":281}}
+{"departement":"Creuse","candidat":"Nathalie ARTHAUD","voix":684,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":282}}
+{"departement":"Creuse","candidat":"François ASSELINEAU","voix":580,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":283}}
+{"departement":"Creuse","candidat":"Jacques CHEMINADE","voix":174,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":284}}
+{"departement":"Creuse","candidat":"Votes blancs","voix":1945,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":285}}
+{"departement":"Creuse","candidat":"Votes nuls","voix":1000,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":286}}
+{"departement":"Dordogne","candidat":"Jean-Luc MELENCHON","voix":57132,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":287}}
+{"departement":"Dordogne","candidat":"Emmanuel MACRON","voix":55945,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":288}}
+{"departement":"Dordogne","candidat":"Marine LE PEN","voix":52044,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":289}}
+{"departement":"Dordogne","candidat":"François FILLON","voix":42510,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":290}}
+{"departement":"Dordogne","candidat":"Benoît HAMON","voix":15783,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":291}}
+{"departement":"Dordogne","candidat":"Nicolas DUPONT-AIGNAN","voix":11424,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":292}}
+{"departement":"Dordogne","candidat":"Jean LASSALLE","voix":6050,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":293}}
+{"departement":"Dordogne","candidat":"Philippe POUTOU","voix":3578,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":294}}
+{"departement":"Dordogne","candidat":"François ASSELINEAU","voix":2128,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":295}}
+{"departement":"Dordogne","candidat":"Nathalie ARTHAUD","voix":1626,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":296}}
+{"departement":"Dordogne","candidat":"Jacques CHEMINADE","voix":490,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":297}}
+{"departement":"Dordogne","candidat":"Votes blancs","voix":5047,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":298}}
+{"departement":"Dordogne","candidat":"Votes nuls","voix":2743,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":299}}
+{"departement":"Doubs","candidat":"Marine LE PEN","voix":66635,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":300}}
+{"departement":"Doubs","candidat":"Emmanuel MACRON","voix":63954,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":301}}
+{"departement":"Doubs","candidat":"François FILLON","voix":59929,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":302}}
+{"departement":"Doubs","candidat":"Jean-Luc MELENCHON","voix":50803,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":303}}
+{"departement":"Doubs","candidat":"Benoît HAMON","voix":16318,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":304}}
+{"departement":"Doubs","candidat":"Nicolas DUPONT-AIGNAN","voix":14733,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":305}}
+{"departement":"Doubs","candidat":"Philippe POUTOU","voix":3565,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":306}}
+{"departement":"Doubs","candidat":"François ASSELINEAU","voix":3129,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":307}}
+{"departement":"Doubs","candidat":"Jean LASSALLE","voix":2532,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":308}}
+{"departement":"Doubs","candidat":"Nathalie ARTHAUD","voix":2051,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":309}}
+{"departement":"Doubs","candidat":"Jacques CHEMINADE","voix":530,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":310}}
+{"departement":"Doubs","candidat":"Votes blancs","voix":5806,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":311}}
+{"departement":"Doubs","candidat":"Votes nuls","voix":2217,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":312}}
+{"departement":"Drôme","candidat":"Marine LE PEN","voix":68996,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":313}}
+{"departement":"Drôme","candidat":"Emmanuel MACRON","voix":63214,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":314}}
+{"departement":"Drôme","candidat":"Jean-Luc MELENCHON","voix":57985,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":315}}
+{"departement":"Drôme","candidat":"François FILLON","voix":53403,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":316}}
+{"departement":"Drôme","candidat":"Benoît HAMON","voix":17385,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":317}}
+{"departement":"Drôme","candidat":"Nicolas DUPONT-AIGNAN","voix":14997,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":318}}
+{"departement":"Drôme","candidat":"Jean LASSALLE","voix":3868,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":319}}
+{"departement":"Drôme","candidat":"Philippe POUTOU","voix":3174,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":320}}
+{"departement":"Drôme","candidat":"François ASSELINEAU","voix":2988,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":321}}
+{"departement":"Drôme","candidat":"Nathalie ARTHAUD","voix":2196,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":322}}
+{"departement":"Drôme","candidat":"Jacques CHEMINADE","voix":533,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":323}}
+{"departement":"Drôme","candidat":"Votes blancs","voix":5462,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":324}}
+{"departement":"Drôme","candidat":"Votes nuls","voix":2074,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":325}}
+{"departement":"Eure","candidat":"Marine LE PEN","voix":98716,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":326}}
+{"departement":"Eure","candidat":"Emmanuel MACRON","voix":66985,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":327}}
+{"departement":"Eure","candidat":"François FILLON","voix":63435,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":328}}
+{"departement":"Eure","candidat":"Jean-Luc MELENCHON","voix":58844,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":329}}
+{"departement":"Eure","candidat":"Nicolas DUPONT-AIGNAN","voix":19096,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":330}}
+{"departement":"Eure","candidat":"Benoît HAMON","voix":16999,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":331}}
+{"departement":"Eure","candidat":"Philippe POUTOU","voix":3933,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":332}}
+{"departement":"Eure","candidat":"François ASSELINEAU","voix":2927,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":333}}
+{"departement":"Eure","candidat":"Nathalie ARTHAUD","voix":2633,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":334}}
+{"departement":"Eure","candidat":"Jean LASSALLE","voix":2602,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":335}}
+{"departement":"Eure","candidat":"Jacques CHEMINADE","voix":602,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":336}}
+{"departement":"Eure","candidat":"Votes blancs","voix":5993,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":337}}
+{"departement":"Eure","candidat":"Votes nuls","voix":2546,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":338}}
+{"departement":"Eure-et-Loir","candidat":"Marine LE PEN","voix":58886,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":339}}
+{"departement":"Eure-et-Loir","candidat":"François FILLON","voix":51275,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":340}}
+{"departement":"Eure-et-Loir","candidat":"Emmanuel MACRON","voix":51038,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":341}}
+{"departement":"Eure-et-Loir","candidat":"Jean-Luc MELENCHON","voix":38035,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":342}}
+{"departement":"Eure-et-Loir","candidat":"Nicolas DUPONT-AIGNAN","voix":14103,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":343}}
+{"departement":"Eure-et-Loir","candidat":"Benoît HAMON","voix":12317,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":344}}
+{"departement":"Eure-et-Loir","candidat":"Philippe POUTOU","voix":2659,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":345}}
+{"departement":"Eure-et-Loir","candidat":"François ASSELINEAU","voix":2253,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":346}}
+{"departement":"Eure-et-Loir","candidat":"Jean LASSALLE","voix":1942,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":347}}
+{"departement":"Eure-et-Loir","candidat":"Nathalie ARTHAUD","voix":1817,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":348}}
+{"departement":"Eure-et-Loir","candidat":"Jacques CHEMINADE","voix":454,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":349}}
+{"departement":"Eure-et-Loir","candidat":"Votes blancs","voix":4533,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":350}}
+{"departement":"Eure-et-Loir","candidat":"Votes nuls","voix":1680,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":351}}
+{"departement":"Finistère","candidat":"Emmanuel MACRON","voix":164094,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":352}}
+{"departement":"Finistère","candidat":"Jean-Luc MELENCHON","voix":109607,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":353}}
+{"departement":"Finistère","candidat":"François FILLON","voix":99965,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":354}}
+{"departement":"Finistère","candidat":"Marine LE PEN","voix":77366,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":355}}
+{"departement":"Finistère","candidat":"Benoît HAMON","voix":60781,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":356}}
+{"departement":"Finistère","candidat":"Nicolas DUPONT-AIGNAN","voix":22737,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":357}}
+{"departement":"Finistère","candidat":"Philippe POUTOU","voix":8250,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":358}}
+{"departement":"Finistère","candidat":"Jean LASSALLE","voix":6192,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":359}}
+{"departement":"Finistère","candidat":"François ASSELINEAU","voix":3697,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":360}}
+{"departement":"Finistère","candidat":"Nathalie ARTHAUD","voix":3638,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":361}}
+{"departement":"Finistère","candidat":"Jacques CHEMINADE","voix":857,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":362}}
+{"departement":"Finistère","candidat":"Votes blancs","voix":9452,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":363}}
+{"departement":"Finistère","candidat":"Votes nuls","voix":3298,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":364}}
+{"departement":"Corse-du-Sud","candidat":"Marine LE PEN","voix":20857,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":365}}
+{"departement":"Corse-du-Sud","candidat":"François FILLON","voix":18714,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":366}}
+{"departement":"Corse-du-Sud","candidat":"Emmanuel MACRON","voix":13022,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":367}}
+{"departement":"Corse-du-Sud","candidat":"Jean-Luc MELENCHON","voix":10085,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":368}}
+{"departement":"Corse-du-Sud","candidat":"Jean LASSALLE","voix":3948,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":369}}
+{"departement":"Corse-du-Sud","candidat":"Benoît HAMON","voix":2546,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":370}}
+{"departement":"Corse-du-Sud","candidat":"Nicolas DUPONT-AIGNAN","voix":2218,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":371}}
+{"departement":"Corse-du-Sud","candidat":"Philippe POUTOU","voix":657,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":372}}
+{"departement":"Corse-du-Sud","candidat":"François ASSELINEAU","voix":485,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":373}}
+{"departement":"Corse-du-Sud","candidat":"Nathalie ARTHAUD","voix":218,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":374}}
+{"departement":"Corse-du-Sud","candidat":"Jacques CHEMINADE","voix":117,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":375}}
+{"departement":"Corse-du-Sud","candidat":"Votes blancs","voix":1208,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":376}}
+{"departement":"Corse-du-Sud","candidat":"Votes nuls","voix":948,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":377}}
+{"departement":"Haute-Corse","candidat":"Marine LE PEN","voix":22183,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":378}}
+{"departement":"Haute-Corse","candidat":"François FILLON","voix":20739,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":379}}
+{"departement":"Haute-Corse","candidat":"Emmanuel MACRON","voix":15506,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":380}}
+{"departement":"Haute-Corse","candidat":"Jean-Luc MELENCHON","voix":11229,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":381}}
+{"departement":"Haute-Corse","candidat":"Jean LASSALLE","voix":4763,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":382}}
+{"departement":"Haute-Corse","candidat":"Benoît HAMON","voix":3234,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":383}}
+{"departement":"Haute-Corse","candidat":"Nicolas DUPONT-AIGNAN","voix":2244,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":384}}
+{"departement":"Haute-Corse","candidat":"Philippe POUTOU","voix":717,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":385}}
+{"departement":"Haute-Corse","candidat":"François ASSELINEAU","voix":480,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":386}}
+{"departement":"Haute-Corse","candidat":"Nathalie ARTHAUD","voix":277,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":387}}
+{"departement":"Haute-Corse","candidat":"Jacques CHEMINADE","voix":136,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":388}}
+{"departement":"Haute-Corse","candidat":"Votes blancs","voix":1666,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":389}}
+{"departement":"Haute-Corse","candidat":"Votes nuls","voix":794,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":390}}
+{"departement":"Gard","candidat":"Marine LE PEN","voix":123263,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":391}}
+{"departement":"Gard","candidat":"Jean-Luc MELENCHON","voix":90895,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":392}}
+{"departement":"Gard","candidat":"Emmanuel MACRON","voix":79007,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":393}}
+{"departement":"Gard","candidat":"François FILLON","voix":72366,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":394}}
+{"departement":"Gard","candidat":"Benoît HAMON","voix":20473,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":395}}
+{"departement":"Gard","candidat":"Nicolas DUPONT-AIGNAN","voix":17808,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":396}}
+{"departement":"Gard","candidat":"Jean LASSALLE","voix":5946,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":397}}
+{"departement":"Gard","candidat":"François ASSELINEAU","voix":4104,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":398}}
+{"departement":"Gard","candidat":"Philippe POUTOU","voix":4050,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":399}}
+{"departement":"Gard","candidat":"Nathalie ARTHAUD","voix":2092,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":400}}
+{"departement":"Gard","candidat":"Jacques CHEMINADE","voix":673,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":401}}
+{"departement":"Gard","candidat":"Votes blancs","voix":6960,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":402}}
+{"departement":"Gard","candidat":"Votes nuls","voix":3027,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":403}}
+{"departement":"Haute-Garonne","candidat":"Emmanuel MACRON","voix":190021,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":404}}
+{"departement":"Haute-Garonne","candidat":"Jean-Luc MELENCHON","voix":170277,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":405}}
+{"departement":"Haute-Garonne","candidat":"Marine LE PEN","voix":120105,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":406}}
+{"departement":"Haute-Garonne","candidat":"François FILLON","voix":118556,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":407}}
+{"departement":"Haute-Garonne","candidat":"Benoît HAMON","voix":60150,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":408}}
+{"departement":"Haute-Garonne","candidat":"Nicolas DUPONT-AIGNAN","voix":27805,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":409}}
+{"departement":"Haute-Garonne","candidat":"Jean LASSALLE","voix":14438,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":410}}
+{"departement":"Haute-Garonne","candidat":"Philippe POUTOU","voix":7105,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":411}}
+{"departement":"Haute-Garonne","candidat":"François ASSELINEAU","voix":5958,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":412}}
+{"departement":"Haute-Garonne","candidat":"Nathalie ARTHAUD","voix":3167,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":413}}
+{"departement":"Haute-Garonne","candidat":"Jacques CHEMINADE","voix":1289,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":414}}
+{"departement":"Haute-Garonne","candidat":"Votes blancs","voix":11389,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":415}}
+{"departement":"Haute-Garonne","candidat":"Votes nuls","voix":5098,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":416}}
+{"departement":"Gers","candidat":"Emmanuel MACRON","voix":27775,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":417}}
+{"departement":"Gers","candidat":"Marine LE PEN","voix":23387,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":418}}
+{"departement":"Gers","candidat":"Jean-Luc MELENCHON","voix":23089,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":419}}
+{"departement":"Gers","candidat":"François FILLON","voix":21312,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":420}}
+{"departement":"Gers","candidat":"Benoît HAMON","voix":9527,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":421}}
+{"departement":"Gers","candidat":"Nicolas DUPONT-AIGNAN","voix":5378,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":422}}
+{"departement":"Gers","candidat":"Jean LASSALLE","voix":5059,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":423}}
+{"departement":"Gers","candidat":"Philippe POUTOU","voix":1254,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":424}}
+{"departement":"Gers","candidat":"François ASSELINEAU","voix":1037,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":425}}
+{"departement":"Gers","candidat":"Nathalie ARTHAUD","voix":677,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":426}}
+{"departement":"Gers","candidat":"Jacques CHEMINADE","voix":188,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":427}}
+{"departement":"Gers","candidat":"Votes blancs","voix":2160,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":428}}
+{"departement":"Gers","candidat":"Votes nuls","voix":1089,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":429}}
+{"departement":"Gironde","candidat":"Emmanuel MACRON","voix":222287,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":430}}
+{"departement":"Gironde","candidat":"Jean-Luc MELENCHON","voix":185859,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":431}}
+{"departement":"Gironde","candidat":"Marine LE PEN","voix":155319,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":432}}
+{"departement":"Gironde","candidat":"François FILLON","voix":145283,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":433}}
+{"departement":"Gironde","candidat":"Benoît HAMON","voix":64300,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":434}}
+{"departement":"Gironde","candidat":"Nicolas DUPONT-AIGNAN","voix":35530,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":435}}
+{"departement":"Gironde","candidat":"Jean LASSALLE","voix":16459,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":436}}
+{"departement":"Gironde","candidat":"Philippe POUTOU","voix":13233,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":437}}
+{"departement":"Gironde","candidat":"François ASSELINEAU","voix":7043,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":438}}
+{"departement":"Gironde","candidat":"Nathalie ARTHAUD","voix":3980,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":439}}
+{"departement":"Gironde","candidat":"Jacques CHEMINADE","voix":1527,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":440}}
+{"departement":"Gironde","candidat":"Votes blancs","voix":13907,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":441}}
+{"departement":"Gironde","candidat":"Votes nuls","voix":5653,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":442}}
+{"departement":"Hérault","candidat":"Marine LE PEN","voix":161119,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":443}}
+{"departement":"Hérault","candidat":"Jean-Luc MELENCHON","voix":143996,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":444}}
+{"departement":"Hérault","candidat":"Emmanuel MACRON","voix":128621,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":445}}
+{"departement":"Hérault","candidat":"François FILLON","voix":110339,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":446}}
+{"departement":"Hérault","candidat":"Benoît HAMON","voix":36180,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":447}}
+{"departement":"Hérault","candidat":"Nicolas DUPONT-AIGNAN","voix":23159,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":448}}
+{"departement":"Hérault","candidat":"Jean LASSALLE","voix":8461,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":449}}
+{"departement":"Hérault","candidat":"François ASSELINEAU","voix":5919,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":450}}
+{"departement":"Hérault","candidat":"Philippe POUTOU","voix":5660,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":451}}
+{"departement":"Hérault","candidat":"Nathalie ARTHAUD","voix":2496,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":452}}
+{"departement":"Hérault","candidat":"Jacques CHEMINADE","voix":894,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":453}}
+{"departement":"Hérault","candidat":"Votes blancs","voix":10041,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":454}}
+{"departement":"Hérault","candidat":"Votes nuls","voix":4139,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":455}}
+{"departement":"Ille-et-Vilaine","candidat":"Emmanuel MACRON","voix":181373,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":456}}
+{"departement":"Ille-et-Vilaine","candidat":"Jean-Luc MELENCHON","voix":118094,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":457}}
+{"departement":"Ille-et-Vilaine","candidat":"François FILLON","voix":114034,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":458}}
+{"departement":"Ille-et-Vilaine","candidat":"Marine LE PEN","voix":84646,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":459}}
+{"departement":"Ille-et-Vilaine","candidat":"Benoît HAMON","voix":53418,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":460}}
+{"departement":"Ille-et-Vilaine","candidat":"Nicolas DUPONT-AIGNAN","voix":26822,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":461}}
+{"departement":"Ille-et-Vilaine","candidat":"Philippe POUTOU","voix":7065,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":462}}
+{"departement":"Ille-et-Vilaine","candidat":"Jean LASSALLE","voix":4531,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":463}}
+{"departement":"Ille-et-Vilaine","candidat":"Nathalie ARTHAUD","voix":4338,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":464}}
+{"departement":"Ille-et-Vilaine","candidat":"François ASSELINEAU","voix":3993,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":465}}
+{"departement":"Ille-et-Vilaine","candidat":"Jacques CHEMINADE","voix":1021,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":466}}
+{"departement":"Ille-et-Vilaine","candidat":"Votes blancs","voix":9978,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":467}}
+{"departement":"Ille-et-Vilaine","candidat":"Votes nuls","voix":4109,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":468}}
+{"departement":"Indre","candidat":"Marine LE PEN","voix":31985,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":469}}
+{"departement":"Indre","candidat":"Emmanuel MACRON","voix":27301,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":470}}
+{"departement":"Indre","candidat":"François FILLON","voix":25476,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":471}}
+{"departement":"Indre","candidat":"Jean-Luc MELENCHON","voix":24938,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":472}}
+{"departement":"Indre","candidat":"Benoît HAMON","voix":7786,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":473}}
+{"departement":"Indre","candidat":"Nicolas DUPONT-AIGNAN","voix":7177,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":474}}
+{"departement":"Indre","candidat":"Philippe POUTOU","voix":1757,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":475}}
+{"departement":"Indre","candidat":"Jean LASSALLE","voix":1728,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":476}}
+{"departement":"Indre","candidat":"Nathalie ARTHAUD","voix":1390,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":477}}
+{"departement":"Indre","candidat":"François ASSELINEAU","voix":1098,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":478}}
+{"departement":"Indre","candidat":"Jacques CHEMINADE","voix":298,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":479}}
+{"departement":"Indre","candidat":"Votes blancs","voix":2956,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":480}}
+{"departement":"Indre","candidat":"Votes nuls","voix":1605,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":481}}
+{"departement":"Indre-et-Loire","candidat":"Emmanuel MACRON","voix":83165,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":482}}
+{"departement":"Indre-et-Loire","candidat":"François FILLON","voix":72187,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":483}}
+{"departement":"Indre-et-Loire","candidat":"Jean-Luc MELENCHON","voix":65930,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":484}}
+{"departement":"Indre-et-Loire","candidat":"Marine LE PEN","voix":64521,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":485}}
+{"departement":"Indre-et-Loire","candidat":"Benoît HAMON","voix":22898,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":486}}
+{"departement":"Indre-et-Loire","candidat":"Nicolas DUPONT-AIGNAN","voix":18449,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":487}}
+{"departement":"Indre-et-Loire","candidat":"Philippe POUTOU","voix":3907,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":488}}
+{"departement":"Indre-et-Loire","candidat":"Jean LASSALLE","voix":2929,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":489}}
+{"departement":"Indre-et-Loire","candidat":"Nathalie ARTHAUD","voix":2606,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":490}}
+{"departement":"Indre-et-Loire","candidat":"François ASSELINEAU","voix":2620,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":491}}
+{"departement":"Indre-et-Loire","candidat":"Jacques CHEMINADE","voix":679,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":492}}
+{"departement":"Indre-et-Loire","candidat":"Votes blancs","voix":6200,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":493}}
+{"departement":"Indre-et-Loire","candidat":"Votes nuls","voix":2750,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":494}}
+{"departement":"Isère","candidat":"Emmanuel MACRON","voix":164091,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":495}}
+{"departement":"Isère","candidat":"Marine LE PEN","voix":147910,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":496}}
+{"departement":"Isère","candidat":"Jean-Luc MELENCHON","voix":135949,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":497}}
+{"departement":"Isère","candidat":"François FILLON","voix":112927,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":498}}
+{"departement":"Isère","candidat":"Benoît HAMON","voix":43652,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":499}}
+{"departement":"Isère","candidat":"Nicolas DUPONT-AIGNAN","voix":33773,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":500}}
+{"departement":"Isère","candidat":"Jean LASSALLE","voix":6537,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":501}}
+{"departement":"Isère","candidat":"François ASSELINEAU","voix":6558,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":502}}
+{"departement":"Isère","candidat":"Philippe POUTOU","voix":6382,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":503}}
+{"departement":"Isère","candidat":"Nathalie ARTHAUD","voix":3595,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":504}}
+{"departement":"Isère","candidat":"Jacques CHEMINADE","voix":1140,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":505}}
+{"departement":"Isère","candidat":"Votes blancs","voix":12058,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":506}}
+{"departement":"Isère","candidat":"Votes nuls","voix":3790,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":507}}
+{"departement":"Jura","candidat":"Marine LE PEN","voix":36110,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":508}}
+{"departement":"Jura","candidat":"Emmanuel MACRON","voix":31896,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":509}}
+{"departement":"Jura","candidat":"Jean-Luc MELENCHON","voix":30330,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":510}}
+{"departement":"Jura","candidat":"François FILLON","voix":28373,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":511}}
+{"departement":"Jura","candidat":"Nicolas DUPONT-AIGNAN","voix":8533,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":512}}
+{"departement":"Jura","candidat":"Benoît HAMON","voix":7589,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":513}}
+{"departement":"Jura","candidat":"Jean LASSALLE","voix":1994,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":514}}
+{"departement":"Jura","candidat":"Philippe POUTOU","voix":1980,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":515}}
+{"departement":"Jura","candidat":"François ASSELINEAU","voix":1330,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":516}}
+{"departement":"Jura","candidat":"Nathalie ARTHAUD","voix":1148,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":517}}
+{"departement":"Jura","candidat":"Jacques CHEMINADE","voix":285,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":518}}
+{"departement":"Jura","candidat":"Votes blancs","voix":3050,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":519}}
+{"departement":"Jura","candidat":"Votes nuls","voix":1189,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":520}}
+{"departement":"Landes","candidat":"Emmanuel MACRON","voix":61073,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":521}}
+{"departement":"Landes","candidat":"Jean-Luc MELENCHON","voix":49976,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":522}}
+{"departement":"Landes","candidat":"Marine LE PEN","voix":44977,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":523}}
+{"departement":"Landes","candidat":"François FILLON","voix":42487,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":524}}
+{"departement":"Landes","candidat":"Benoît HAMON","voix":21558,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":525}}
+{"departement":"Landes","candidat":"Nicolas DUPONT-AIGNAN","voix":11024,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":526}}
+{"departement":"Landes","candidat":"Jean LASSALLE","voix":10490,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":527}}
+{"departement":"Landes","candidat":"Philippe POUTOU","voix":2876,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":528}}
+{"departement":"Landes","candidat":"François ASSELINEAU","voix":1919,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":529}}
+{"departement":"Landes","candidat":"Nathalie ARTHAUD","voix":1238,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":530}}
+{"departement":"Landes","candidat":"Jacques CHEMINADE","voix":373,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":531}}
+{"departement":"Landes","candidat":"Votes blancs","voix":4798,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":532}}
+{"departement":"Landes","candidat":"Votes nuls","voix":1997,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":533}}
+{"departement":"Loir-et-Cher","candidat":"Marine LE PEN","voix":48662,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":534}}
+{"departement":"Loir-et-Cher","candidat":"François FILLON","voix":42756,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":535}}
+{"departement":"Loir-et-Cher","candidat":"Emmanuel MACRON","voix":40639,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":536}}
+{"departement":"Loir-et-Cher","candidat":"Jean-Luc MELENCHON","voix":31576,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":537}}
+{"departement":"Loir-et-Cher","candidat":"Nicolas DUPONT-AIGNAN","voix":11646,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":538}}
+{"departement":"Loir-et-Cher","candidat":"Benoît HAMON","voix":10956,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":539}}
+{"departement":"Loir-et-Cher","candidat":"Philippe POUTOU","voix":2198,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":540}}
+{"departement":"Loir-et-Cher","candidat":"Jean LASSALLE","voix":1843,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":541}}
+{"departement":"Loir-et-Cher","candidat":"Nathalie ARTHAUD","voix":1542,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":542}}
+{"departement":"Loir-et-Cher","candidat":"François ASSELINEAU","voix":1516,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":543}}
+{"departement":"Loir-et-Cher","candidat":"Jacques CHEMINADE","voix":404,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":544}}
+{"departement":"Loir-et-Cher","candidat":"Votes blancs","voix":3692,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":545}}
+{"departement":"Loir-et-Cher","candidat":"Votes nuls","voix":1566,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":546}}
+{"departement":"Loire","candidat":"Marine LE PEN","voix":94222,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":547}}
+{"departement":"Loire","candidat":"Emmanuel MACRON","voix":90677,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":548}}
+{"departement":"Loire","candidat":"Jean-Luc MELENCHON","voix":73388,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":549}}
+{"departement":"Loire","candidat":"François FILLON","voix":71848,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":550}}
+{"departement":"Loire","candidat":"Nicolas DUPONT-AIGNAN","voix":22689,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":551}}
+{"departement":"Loire","candidat":"Benoît HAMON","voix":22698,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":552}}
+{"departement":"Loire","candidat":"Jean LASSALLE","voix":5041,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":553}}
+{"departement":"Loire","candidat":"Philippe POUTOU","voix":4107,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":554}}
+{"departement":"Loire","candidat":"François ASSELINEAU","voix":3483,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":555}}
+{"departement":"Loire","candidat":"Nathalie ARTHAUD","voix":2547,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":556}}
+{"departement":"Loire","candidat":"Jacques CHEMINADE","voix":667,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":557}}
+{"departement":"Loire","candidat":"Votes blancs","voix":7826,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":558}}
+{"departement":"Loire","candidat":"Votes nuls","voix":2784,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":559}}
+{"departement":"Haute-Loire","candidat":"Emmanuel MACRON","voix":32819,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":560}}
+{"departement":"Haute-Loire","candidat":"Marine LE PEN","voix":32185,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":561}}
+{"departement":"Haute-Loire","candidat":"François FILLON","voix":25956,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":562}}
+{"departement":"Haute-Loire","candidat":"Jean-Luc MELENCHON","voix":25418,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":563}}
+{"departement":"Haute-Loire","candidat":"Nicolas DUPONT-AIGNAN","voix":8346,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":564}}
+{"departement":"Haute-Loire","candidat":"Benoît HAMON","voix":7435,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":565}}
+{"departement":"Haute-Loire","candidat":"Jean LASSALLE","voix":3112,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":566}}
+{"departement":"Haute-Loire","candidat":"Philippe POUTOU","voix":1928,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":567}}
+{"departement":"Haute-Loire","candidat":"Nathalie ARTHAUD","voix":1043,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":568}}
+{"departement":"Haute-Loire","candidat":"François ASSELINEAU","voix":1050,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":569}}
+{"departement":"Haute-Loire","candidat":"Jacques CHEMINADE","voix":282,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":570}}
+{"departement":"Haute-Loire","candidat":"Votes blancs","voix":3324,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":571}}
+{"departement":"Haute-Loire","candidat":"Votes nuls","voix":1385,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":572}}
+{"departement":"Loire-Atlantique","candidat":"Emmanuel MACRON","voix":232602,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":573}}
+{"departement":"Loire-Atlantique","candidat":"Jean-Luc MELENCHON","voix":178357,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":574}}
+{"departement":"Loire-Atlantique","candidat":"François FILLON","voix":159703,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":575}}
+{"departement":"Loire-Atlantique","candidat":"Marine LE PEN","voix":111194,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":576}}
+{"departement":"Loire-Atlantique","candidat":"Benoît HAMON","voix":65140,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":577}}
+{"departement":"Loire-Atlantique","candidat":"Nicolas DUPONT-AIGNAN","voix":36546,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":578}}
+{"departement":"Loire-Atlantique","candidat":"Philippe POUTOU","voix":9618,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":579}}
+{"departement":"Loire-Atlantique","candidat":"François ASSELINEAU","voix":6129,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":580}}
+{"departement":"Loire-Atlantique","candidat":"Jean LASSALLE","voix":6029,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":581}}
+{"departement":"Loire-Atlantique","candidat":"Nathalie ARTHAUD","voix":4785,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":582}}
+{"departement":"Loire-Atlantique","candidat":"Jacques CHEMINADE","voix":1354,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":583}}
+{"departement":"Loire-Atlantique","candidat":"Votes blancs","voix":14632,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":584}}
+{"departement":"Loire-Atlantique","candidat":"Votes nuls","voix":4848,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":585}}
+{"departement":"Loiret","candidat":"Marine LE PEN","voix":83662,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":586}}
+{"departement":"Loiret","candidat":"Emmanuel MACRON","voix":83506,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":587}}
+{"departement":"Loiret","candidat":"François FILLON","voix":75655,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":588}}
+{"departement":"Loiret","candidat":"Jean-Luc MELENCHON","voix":58134,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":589}}
+{"departement":"Loiret","candidat":"Nicolas DUPONT-AIGNAN","voix":21128,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":590}}
+{"departement":"Loiret","candidat":"Benoît HAMON","voix":20438,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":591}}
+{"departement":"Loiret","candidat":"Philippe POUTOU","voix":3655,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":592}}
+{"departement":"Loiret","candidat":"Jean LASSALLE","voix":3203,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":593}}
+{"departement":"Loiret","candidat":"François ASSELINEAU","voix":3109,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":594}}
+{"departement":"Loiret","candidat":"Nathalie ARTHAUD","voix":2380,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":595}}
+{"departement":"Loiret","candidat":"Jacques CHEMINADE","voix":702,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":596}}
+{"departement":"Loiret","candidat":"Votes blancs","voix":6395,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":597}}
+{"departement":"Loiret","candidat":"Votes nuls","voix":2666,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":598}}
+{"departement":"Lot","candidat":"Emmanuel MACRON","voix":29527,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":599}}
+{"departement":"Lot","candidat":"Jean-Luc MELENCHON","voix":26014,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":600}}
+{"departement":"Lot","candidat":"François FILLON","voix":18459,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":601}}
+{"departement":"Lot","candidat":"Marine LE PEN","voix":17864,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":602}}
+{"departement":"Lot","candidat":"Benoît HAMON","voix":7950,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":603}}
+{"departement":"Lot","candidat":"Nicolas DUPONT-AIGNAN","voix":4550,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":604}}
+{"departement":"Lot","candidat":"Jean LASSALLE","voix":3073,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":605}}
+{"departement":"Lot","candidat":"Philippe POUTOU","voix":1528,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":606}}
+{"departement":"Lot","candidat":"François ASSELINEAU","voix":871,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":607}}
+{"departement":"Lot","candidat":"Nathalie ARTHAUD","voix":723,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":608}}
+{"departement":"Lot","candidat":"Jacques CHEMINADE","voix":226,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":609}}
+{"departement":"Lot","candidat":"Votes blancs","voix":1905,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":610}}
+{"departement":"Lot","candidat":"Votes nuls","voix":1309,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":611}}
+{"departement":"Lot-et-Garonne","candidat":"Marine LE PEN","voix":47271,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":612}}
+{"departement":"Lot-et-Garonne","candidat":"Emmanuel MACRON","voix":39253,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":613}}
+{"departement":"Lot-et-Garonne","candidat":"Jean-Luc MELENCHON","voix":36018,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":614}}
+{"departement":"Lot-et-Garonne","candidat":"François FILLON","voix":34828,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":615}}
+{"departement":"Lot-et-Garonne","candidat":"Benoît HAMON","voix":10639,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":616}}
+{"departement":"Lot-et-Garonne","candidat":"Nicolas DUPONT-AIGNAN","voix":9407,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":617}}
+{"departement":"Lot-et-Garonne","candidat":"Jean LASSALLE","voix":6083,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":618}}
+{"departement":"Lot-et-Garonne","candidat":"Philippe POUTOU","voix":2292,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":619}}
+{"departement":"Lot-et-Garonne","candidat":"François ASSELINEAU","voix":1660,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":620}}
+{"departement":"Lot-et-Garonne","candidat":"Nathalie ARTHAUD","voix":1044,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":621}}
+{"departement":"Lot-et-Garonne","candidat":"Jacques CHEMINADE","voix":327,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":622}}
+{"departement":"Lot-et-Garonne","candidat":"Votes blancs","voix":3660,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":623}}
+{"departement":"Lot-et-Garonne","candidat":"Votes nuls","voix":1644,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":624}}
+{"departement":"Lozère","candidat":"François FILLON","voix":10986,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":625}}
+{"departement":"Lozère","candidat":"Emmanuel MACRON","voix":10463,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":626}}
+{"departement":"Lozère","candidat":"Jean-Luc MELENCHON","voix":9483,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":627}}
+{"departement":"Lozère","candidat":"Marine LE PEN","voix":9097,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":628}}
+{"departement":"Lozère","candidat":"Benoît HAMON","voix":2733,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":629}}
+{"departement":"Lozère","candidat":"Nicolas DUPONT-AIGNAN","voix":2197,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":630}}
+{"departement":"Lozère","candidat":"Jean LASSALLE","voix":1764,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":631}}
+{"departement":"Lozère","candidat":"Philippe POUTOU","voix":683,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":632}}
+{"departement":"Lozère","candidat":"François ASSELINEAU","voix":354,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":633}}
+{"departement":"Lozère","candidat":"Nathalie ARTHAUD","voix":294,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":634}}
+{"departement":"Lozère","candidat":"Jacques CHEMINADE","voix":93,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":635}}
+{"departement":"Lozère","candidat":"Votes blancs","voix":854,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":636}}
+{"departement":"Lozère","candidat":"Votes nuls","voix":558,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":637}}
+{"departement":"Maine-et-Loire","candidat":"Emmanuel MACRON","voix":121685,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":638}}
+{"departement":"Maine-et-Loire","candidat":"François FILLON","voix":108888,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":639}}
+{"departement":"Maine-et-Loire","candidat":"Jean-Luc MELENCHON","voix":78293,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":640}}
+{"departement":"Maine-et-Loire","candidat":"Marine LE PEN","voix":77935,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":641}}
+{"departement":"Maine-et-Loire","candidat":"Benoît HAMON","voix":29553,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":642}}
+{"departement":"Maine-et-Loire","candidat":"Nicolas DUPONT-AIGNAN","voix":25321,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":643}}
+{"departement":"Maine-et-Loire","candidat":"Philippe POUTOU","voix":5696,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":644}}
+{"departement":"Maine-et-Loire","candidat":"Nathalie ARTHAUD","voix":3860,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":645}}
+{"departement":"Maine-et-Loire","candidat":"Jean LASSALLE","voix":3483,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":646}}
+{"departement":"Maine-et-Loire","candidat":"François ASSELINEAU","voix":3439,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":647}}
+{"departement":"Maine-et-Loire","candidat":"Jacques CHEMINADE","voix":803,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":648}}
+{"departement":"Maine-et-Loire","candidat":"Votes blancs","voix":9769,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":649}}
+{"departement":"Maine-et-Loire","candidat":"Votes nuls","voix":3662,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":650}}
+{"departement":"Manche","candidat":"Emmanuel MACRON","voix":74797,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":651}}
+{"departement":"Manche","candidat":"François FILLON","voix":64989,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":652}}
+{"departement":"Manche","candidat":"Marine LE PEN","voix":61735,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":653}}
+{"departement":"Manche","candidat":"Jean-Luc MELENCHON","voix":51134,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":654}}
+{"departement":"Manche","candidat":"Benoît HAMON","voix":19277,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":655}}
+{"departement":"Manche","candidat":"Nicolas DUPONT-AIGNAN","voix":17102,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":656}}
+{"departement":"Manche","candidat":"Philippe POUTOU","voix":4146,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":657}}
+{"departement":"Manche","candidat":"Nathalie ARTHAUD","voix":2595,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":658}}
+{"departement":"Manche","candidat":"Jean LASSALLE","voix":2524,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":659}}
+{"departement":"Manche","candidat":"François ASSELINEAU","voix":2050,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":660}}
+{"departement":"Manche","candidat":"Jacques CHEMINADE","voix":623,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":661}}
+{"departement":"Manche","candidat":"Votes blancs","voix":5639,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":662}}
+{"departement":"Manche","candidat":"Votes nuls","voix":2291,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":663}}
+{"departement":"Marne","candidat":"Marine LE PEN","voix":82473,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":664}}
+{"departement":"Marne","candidat":"François FILLON","voix":65080,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":665}}
+{"departement":"Marne","candidat":"Emmanuel MACRON","voix":60958,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":666}}
+{"departement":"Marne","candidat":"Jean-Luc MELENCHON","voix":44424,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":667}}
+{"departement":"Marne","candidat":"Nicolas DUPONT-AIGNAN","voix":16896,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":668}}
+{"departement":"Marne","candidat":"Benoît HAMON","voix":13683,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":669}}
+{"departement":"Marne","candidat":"Philippe POUTOU","voix":2762,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":670}}
+{"departement":"Marne","candidat":"François ASSELINEAU","voix":2441,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":671}}
+{"departement":"Marne","candidat":"Jean LASSALLE","voix":2351,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":672}}
+{"departement":"Marne","candidat":"Nathalie ARTHAUD","voix":2176,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":673}}
+{"departement":"Marne","candidat":"Jacques CHEMINADE","voix":525,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":674}}
+{"departement":"Marne","candidat":"Votes blancs","voix":4767,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":675}}
+{"departement":"Marne","candidat":"Votes nuls","voix":1896,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":676}}
+{"departement":"Haute-Marne","candidat":"Marine LE PEN","voix":34027,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":677}}
+{"departement":"Haute-Marne","candidat":"François FILLON","voix":19590,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":678}}
+{"departement":"Haute-Marne","candidat":"Emmanuel MACRON","voix":18438,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":679}}
+{"departement":"Haute-Marne","candidat":"Jean-Luc MELENCHON","voix":15380,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":680}}
+{"departement":"Haute-Marne","candidat":"Nicolas DUPONT-AIGNAN","voix":6417,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":681}}
+{"departement":"Haute-Marne","candidat":"Benoît HAMON","voix":4292,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":682}}
+{"departement":"Haute-Marne","candidat":"Philippe POUTOU","voix":1233,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":683}}
+{"departement":"Haute-Marne","candidat":"Jean LASSALLE","voix":1126,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":684}}
+{"departement":"Haute-Marne","candidat":"Nathalie ARTHAUD","voix":926,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":685}}
+{"departement":"Haute-Marne","candidat":"François ASSELINEAU","voix":813,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":686}}
+{"departement":"Haute-Marne","candidat":"Jacques CHEMINADE","voix":198,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":687}}
+{"departement":"Haute-Marne","candidat":"Votes blancs","voix":2120,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":688}}
+{"departement":"Haute-Marne","candidat":"Votes nuls","voix":819,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":689}}
+{"departement":"Mayenne","candidat":"François FILLON","voix":48772,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":690}}
+{"departement":"Mayenne","candidat":"Emmanuel MACRON","voix":46938,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":691}}
+{"departement":"Mayenne","candidat":"Marine LE PEN","voix":30465,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":692}}
+{"departement":"Mayenne","candidat":"Jean-Luc MELENCHON","voix":26798,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":693}}
+{"departement":"Mayenne","candidat":"Benoît HAMON","voix":10247,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":694}}
+{"departement":"Mayenne","candidat":"Nicolas DUPONT-AIGNAN","voix":10107,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":695}}
+{"departement":"Mayenne","candidat":"Philippe POUTOU","voix":2242,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":696}}
+{"departement":"Mayenne","candidat":"Nathalie ARTHAUD","voix":1627,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":697}}
+{"departement":"Mayenne","candidat":"Jean LASSALLE","voix":1525,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":698}}
+{"departement":"Mayenne","candidat":"François ASSELINEAU","voix":1182,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":699}}
+{"departement":"Mayenne","candidat":"Jacques CHEMINADE","voix":329,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":700}}
+{"departement":"Mayenne","candidat":"Votes blancs","voix":4111,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":701}}
+{"departement":"Mayenne","candidat":"Votes nuls","voix":1589,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":702}}
+{"departement":"Meurthe-et-Moselle","candidat":"Marine LE PEN","voix":98194,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":703}}
+{"departement":"Meurthe-et-Moselle","candidat":"Emmanuel MACRON","voix":83703,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":704}}
+{"departement":"Meurthe-et-Moselle","candidat":"Jean-Luc MELENCHON","voix":77300,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":705}}
+{"departement":"Meurthe-et-Moselle","candidat":"François FILLON","voix":62654,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":706}}
+{"departement":"Meurthe-et-Moselle","candidat":"Benoît HAMON","voix":23626,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":707}}
+{"departement":"Meurthe-et-Moselle","candidat":"Nicolas DUPONT-AIGNAN","voix":19331,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":708}}
+{"departement":"Meurthe-et-Moselle","candidat":"Philippe POUTOU","voix":4483,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":709}}
+{"departement":"Meurthe-et-Moselle","candidat":"François ASSELINEAU","voix":3458,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":710}}
+{"departement":"Meurthe-et-Moselle","candidat":"Jean LASSALLE","voix":3236,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":711}}
+{"departement":"Meurthe-et-Moselle","candidat":"Nathalie ARTHAUD","voix":2948,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":712}}
+{"departement":"Meurthe-et-Moselle","candidat":"Jacques CHEMINADE","voix":733,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":713}}
+{"departement":"Meurthe-et-Moselle","candidat":"Votes blancs","voix":6302,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":714}}
+{"departement":"Meurthe-et-Moselle","candidat":"Votes nuls","voix":2528,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":715}}
+{"departement":"Meuse","candidat":"Marine LE PEN","voix":34602,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":716}}
+{"departement":"Meuse","candidat":"Emmanuel MACRON","voix":20713,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":717}}
+{"departement":"Meuse","candidat":"François FILLON","voix":19287,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":718}}
+{"departement":"Meuse","candidat":"Jean-Luc MELENCHON","voix":16020,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":719}}
+{"departement":"Meuse","candidat":"Nicolas DUPONT-AIGNAN","voix":6802,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":720}}
+{"departement":"Meuse","candidat":"Benoît HAMON","voix":4918,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":721}}
+{"departement":"Meuse","candidat":"Philippe POUTOU","voix":1430,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":722}}
+{"departement":"Meuse","candidat":"Jean LASSALLE","voix":1294,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":723}}
+{"departement":"Meuse","candidat":"Nathalie ARTHAUD","voix":886,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":724}}
+{"departement":"Meuse","candidat":"François ASSELINEAU","voix":856,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":725}}
+{"departement":"Meuse","candidat":"Jacques CHEMINADE","voix":237,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":726}}
+{"departement":"Meuse","candidat":"Votes blancs","voix":1907,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":727}}
+{"departement":"Meuse","candidat":"Votes nuls","voix":827,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":728}}
+{"departement":"Morbihan","candidat":"Emmanuel MACRON","voix":130639,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":729}}
+{"departement":"Morbihan","candidat":"François FILLON","voix":97900,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":730}}
+{"departement":"Morbihan","candidat":"Marine LE PEN","voix":82927,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":731}}
+{"departement":"Morbihan","candidat":"Jean-Luc MELENCHON","voix":82020,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":732}}
+{"departement":"Morbihan","candidat":"Benoît HAMON","voix":34368,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":733}}
+{"departement":"Morbihan","candidat":"Nicolas DUPONT-AIGNAN","voix":22411,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":734}}
+{"departement":"Morbihan","candidat":"Philippe POUTOU","voix":6309,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":735}}
+{"departement":"Morbihan","candidat":"Jean LASSALLE","voix":4820,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":736}}
+{"departement":"Morbihan","candidat":"Nathalie ARTHAUD","voix":3291,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":737}}
+{"departement":"Morbihan","candidat":"François ASSELINEAU","voix":3249,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":738}}
+{"departement":"Morbihan","candidat":"Jacques CHEMINADE","voix":901,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":739}}
+{"departement":"Morbihan","candidat":"Votes blancs","voix":8518,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":740}}
+{"departement":"Morbihan","candidat":"Votes nuls","voix":3546,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":741}}
+{"departement":"Moselle","candidat":"Marine LE PEN","voix":158549,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":742}}
+{"departement":"Moselle","candidat":"Emmanuel MACRON","voix":117737,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":743}}
+{"departement":"Moselle","candidat":"Jean-Luc MELENCHON","voix":100116,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":744}}
+{"departement":"Moselle","candidat":"François FILLON","voix":96003,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":745}}
+{"departement":"Moselle","candidat":"Nicolas DUPONT-AIGNAN","voix":32525,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":746}}
+{"departement":"Moselle","candidat":"Benoît HAMON","voix":29480,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":747}}
+{"departement":"Moselle","candidat":"Philippe POUTOU","voix":6975,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":748}}
+{"departement":"Moselle","candidat":"François ASSELINEAU","voix":5977,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":749}}
+{"departement":"Moselle","candidat":"Jean LASSALLE","voix":5763,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":750}}
+{"departement":"Moselle","candidat":"Nathalie ARTHAUD","voix":4929,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":751}}
+{"departement":"Moselle","candidat":"Jacques CHEMINADE","voix":1167,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":752}}
+{"departement":"Moselle","candidat":"Votes blancs","voix":11045,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":753}}
+{"departement":"Moselle","candidat":"Votes nuls","voix":3522,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":754}}
+{"departement":"Nièvre","candidat":"Marine LE PEN","voix":29819,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":755}}
+{"departement":"Nièvre","candidat":"Emmanuel MACRON","voix":27356,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":756}}
+{"departement":"Nièvre","candidat":"Jean-Luc MELENCHON","voix":23062,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":757}}
+{"departement":"Nièvre","candidat":"François FILLON","voix":20763,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":758}}
+{"departement":"Nièvre","candidat":"Benoît HAMON","voix":7840,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":759}}
+{"departement":"Nièvre","candidat":"Nicolas DUPONT-AIGNAN","voix":6445,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":760}}
+{"departement":"Nièvre","candidat":"Philippe POUTOU","voix":1551,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":761}}
+{"departement":"Nièvre","candidat":"Jean LASSALLE","voix":1358,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":762}}
+{"departement":"Nièvre","candidat":"Nathalie ARTHAUD","voix":1000,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":763}}
+{"departement":"Nièvre","candidat":"François ASSELINEAU","voix":974,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":764}}
+{"departement":"Nièvre","candidat":"Jacques CHEMINADE","voix":236,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":765}}
+{"departement":"Nièvre","candidat":"Votes blancs","voix":2535,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":766}}
+{"departement":"Nièvre","candidat":"Votes nuls","voix":1010,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":767}}
+{"departement":"Nord","candidat":"Marine LE PEN","voix":382024,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":768}}
+{"departement":"Nord","candidat":"Jean-Luc MELENCHON","voix":288081,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":769}}
+{"departement":"Nord","candidat":"Emmanuel MACRON","voix":268729,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":770}}
+{"departement":"Nord","candidat":"François FILLON","voix":226707,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":771}}
+{"departement":"Nord","candidat":"Benoît HAMON","voix":76528,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":772}}
+{"departement":"Nord","candidat":"Nicolas DUPONT-AIGNAN","voix":65252,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":773}}
+{"departement":"Nord","candidat":"Philippe POUTOU","voix":13151,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":774}}
+{"departement":"Nord","candidat":"François ASSELINEAU","voix":11448,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":775}}
+{"departement":"Nord","candidat":"Nathalie ARTHAUD","voix":10975,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":776}}
+{"departement":"Nord","candidat":"Jean LASSALLE","voix":8566,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":777}}
+{"departement":"Nord","candidat":"Jacques CHEMINADE","voix":2341,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":778}}
+{"departement":"Nord","candidat":"Votes blancs","voix":24053,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":779}}
+{"departement":"Nord","candidat":"Votes nuls","voix":9740,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":780}}
+{"departement":"Oise","candidat":"Marine LE PEN","voix":135176,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":781}}
+{"departement":"Oise","candidat":"Emmanuel MACRON","voix":86682,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":782}}
+{"departement":"Oise","candidat":"Jean-Luc MELENCHON","voix":77415,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":783}}
+{"departement":"Oise","candidat":"François FILLON","voix":76783,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":784}}
+{"departement":"Oise","candidat":"Nicolas DUPONT-AIGNAN","voix":23936,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":785}}
+{"departement":"Oise","candidat":"Benoît HAMON","voix":20534,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":786}}
+{"departement":"Oise","candidat":"François ASSELINEAU","voix":4666,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":787}}
+{"departement":"Oise","candidat":"Philippe POUTOU","voix":4683,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":788}}
+{"departement":"Oise","candidat":"Nathalie ARTHAUD","voix":3677,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":789}}
+{"departement":"Oise","candidat":"Jean LASSALLE","voix":3414,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":790}}
+{"departement":"Oise","candidat":"Jacques CHEMINADE","voix":827,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":791}}
+{"departement":"Oise","candidat":"Votes blancs","voix":7916,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":792}}
+{"departement":"Oise","candidat":"Votes nuls","voix":3150,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":793}}
+{"departement":"Orne","candidat":"François FILLON","voix":41084,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":794}}
+{"departement":"Orne","candidat":"Marine LE PEN","voix":39532,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":795}}
+{"departement":"Orne","candidat":"Emmanuel MACRON","voix":35815,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":796}}
+{"departement":"Orne","candidat":"Jean-Luc MELENCHON","voix":24542,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":797}}
+{"departement":"Orne","candidat":"Nicolas DUPONT-AIGNAN","voix":9644,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":798}}
+{"departement":"Orne","candidat":"Benoît HAMON","voix":8659,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":799}}
+{"departement":"Orne","candidat":"Philippe POUTOU","voix":2147,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":800}}
+{"departement":"Orne","candidat":"Nathalie ARTHAUD","voix":1513,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":801}}
+{"departement":"Orne","candidat":"Jean LASSALLE","voix":1480,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":802}}
+{"departement":"Orne","candidat":"François ASSELINEAU","voix":1291,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":803}}
+{"departement":"Orne","candidat":"Jacques CHEMINADE","voix":350,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":804}}
+{"departement":"Orne","candidat":"Votes blancs","voix":3176,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":805}}
+{"departement":"Orne","candidat":"Votes nuls","voix":1161,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":806}}
+{"departement":"Pas-de-Calais","candidat":"Marine LE PEN","voix":286152,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":807}}
+{"departement":"Pas-de-Calais","candidat":"Jean-Luc MELENCHON","voix":159342,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":808}}
+{"departement":"Pas-de-Calais","candidat":"Emmanuel MACRON","voix":153782,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":809}}
+{"departement":"Pas-de-Calais","candidat":"François FILLON","voix":119087,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":810}}
+{"departement":"Pas-de-Calais","candidat":"Benoît HAMON","voix":43084,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":811}}
+{"departement":"Pas-de-Calais","candidat":"Nicolas DUPONT-AIGNAN","voix":41427,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":812}}
+{"departement":"Pas-de-Calais","candidat":"Philippe POUTOU","voix":9002,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":813}}
+{"departement":"Pas-de-Calais","candidat":"Nathalie ARTHAUD","voix":8667,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":814}}
+{"departement":"Pas-de-Calais","candidat":"Jean LASSALLE","voix":5832,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":815}}
+{"departement":"Pas-de-Calais","candidat":"François ASSELINEAU","voix":5484,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":816}}
+{"departement":"Pas-de-Calais","candidat":"Jacques CHEMINADE","voix":1408,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":817}}
+{"departement":"Pas-de-Calais","candidat":"Votes blancs","voix":15351,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":818}}
+{"departement":"Pas-de-Calais","candidat":"Votes nuls","voix":7671,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":819}}
+{"departement":"Puy-de-Dôme","candidat":"Emmanuel MACRON","voix":96798,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":820}}
+{"departement":"Puy-de-Dôme","candidat":"Jean-Luc MELENCHON","voix":78417,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":821}}
+{"departement":"Puy-de-Dôme","candidat":"Marine LE PEN","voix":63030,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":822}}
+{"departement":"Puy-de-Dôme","candidat":"François FILLON","voix":58432,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":823}}
+{"departement":"Puy-de-Dôme","candidat":"Benoît HAMON","voix":25814,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":824}}
+{"departement":"Puy-de-Dôme","candidat":"Nicolas DUPONT-AIGNAN","voix":15645,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":825}}
+{"departement":"Puy-de-Dôme","candidat":"Jean LASSALLE","voix":7348,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":826}}
+{"departement":"Puy-de-Dôme","candidat":"Philippe POUTOU","voix":4730,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":827}}
+{"departement":"Puy-de-Dôme","candidat":"François ASSELINEAU","voix":2910,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":828}}
+{"departement":"Puy-de-Dôme","candidat":"Nathalie ARTHAUD","voix":2699,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":829}}
+{"departement":"Puy-de-Dôme","candidat":"Jacques CHEMINADE","voix":755,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":830}}
+{"departement":"Puy-de-Dôme","candidat":"Votes blancs","voix":7511,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":831}}
+{"departement":"Puy-de-Dôme","candidat":"Votes nuls","voix":3552,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":832}}
+{"departement":"Pyrénées-Atlantiques","candidat":"Emmanuel MACRON","voix":103957,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":833}}
+{"departement":"Pyrénées-Atlantiques","candidat":"Jean-Luc MELENCHON","voix":78803,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":834}}
+{"departement":"Pyrénées-Atlantiques","candidat":"François FILLON","voix":71857,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":835}}
+{"departement":"Pyrénées-Atlantiques","candidat":"Marine LE PEN","voix":54375,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":836}}
+{"departement":"Pyrénées-Atlantiques","candidat":"Benoît HAMON","voix":30589,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":837}}
+{"departement":"Pyrénées-Atlantiques","candidat":"Jean LASSALLE","voix":29882,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":838}}
+{"departement":"Pyrénées-Atlantiques","candidat":"Nicolas DUPONT-AIGNAN","voix":14727,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":839}}
+{"departement":"Pyrénées-Atlantiques","candidat":"Philippe POUTOU","voix":6371,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":840}}
+{"departement":"Pyrénées-Atlantiques","candidat":"François ASSELINEAU","voix":2782,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":841}}
+{"departement":"Pyrénées-Atlantiques","candidat":"Nathalie ARTHAUD","voix":1799,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":842}}
+{"departement":"Pyrénées-Atlantiques","candidat":"Jacques CHEMINADE","voix":508,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":843}}
+{"departement":"Pyrénées-Atlantiques","candidat":"Votes blancs","voix":6684,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":844}}
+{"departement":"Pyrénées-Atlantiques","candidat":"Votes nuls","voix":2688,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":845}}
+{"departement":"Hautes-Pyrénées","candidat":"Emmanuel MACRON","voix":35070,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":846}}
+{"departement":"Hautes-Pyrénées","candidat":"Jean-Luc MELENCHON","voix":32148,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":847}}
+{"departement":"Hautes-Pyrénées","candidat":"Marine LE PEN","voix":25947,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":848}}
+{"departement":"Hautes-Pyrénées","candidat":"François FILLON","voix":20220,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":849}}
+{"departement":"Hautes-Pyrénées","candidat":"Benoît HAMON","voix":9935,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":850}}
+{"departement":"Hautes-Pyrénées","candidat":"Jean LASSALLE","voix":6928,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":851}}
+{"departement":"Hautes-Pyrénées","candidat":"Nicolas DUPONT-AIGNAN","voix":5876,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":852}}
+{"departement":"Hautes-Pyrénées","candidat":"Philippe POUTOU","voix":1575,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":853}}
+{"departement":"Hautes-Pyrénées","candidat":"François ASSELINEAU","voix":1023,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":854}}
+{"departement":"Hautes-Pyrénées","candidat":"Nathalie ARTHAUD","voix":767,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":855}}
+{"departement":"Hautes-Pyrénées","candidat":"Jacques CHEMINADE","voix":200,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":856}}
+{"departement":"Hautes-Pyrénées","candidat":"Votes blancs","voix":2528,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":857}}
+{"departement":"Hautes-Pyrénées","candidat":"Votes nuls","voix":1198,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":858}}
+{"departement":"Pyrénées-Orientales","candidat":"Marine LE PEN","voix":80169,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":859}}
+{"departement":"Pyrénées-Orientales","candidat":"Jean-Luc MELENCHON","voix":56392,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":860}}
+{"departement":"Pyrénées-Orientales","candidat":"Emmanuel MACRON","voix":49245,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":861}}
+{"departement":"Pyrénées-Orientales","candidat":"François FILLON","voix":45865,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":862}}
+{"departement":"Pyrénées-Orientales","candidat":"Benoît HAMON","voix":13455,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":863}}
+{"departement":"Pyrénées-Orientales","candidat":"Nicolas DUPONT-AIGNAN","voix":9741,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":864}}
+{"departement":"Pyrénées-Orientales","candidat":"Jean LASSALLE","voix":4634,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":865}}
+{"departement":"Pyrénées-Orientales","candidat":"Philippe POUTOU","voix":3053,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":866}}
+{"departement":"Pyrénées-Orientales","candidat":"François ASSELINEAU","voix":2303,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":867}}
+{"departement":"Pyrénées-Orientales","candidat":"Nathalie ARTHAUD","voix":1477,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":868}}
+{"departement":"Pyrénées-Orientales","candidat":"Jacques CHEMINADE","voix":453,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":869}}
+{"departement":"Pyrénées-Orientales","candidat":"Votes blancs","voix":4563,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":870}}
+{"departement":"Pyrénées-Orientales","candidat":"Votes nuls","voix":2580,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":871}}
+{"departement":"Bas-Rhin","candidat":"Marine LE PEN","voix":147595,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":872}}
+{"departement":"Bas-Rhin","candidat":"Emmanuel MACRON","voix":133254,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":873}}
+{"departement":"Bas-Rhin","candidat":"François FILLON","voix":131495,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":874}}
+{"departement":"Bas-Rhin","candidat":"Jean-Luc MELENCHON","voix":88376,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":875}}
+{"departement":"Bas-Rhin","candidat":"Nicolas DUPONT-AIGNAN","voix":39253,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":876}}
+{"departement":"Bas-Rhin","candidat":"Benoît HAMON","voix":31953,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":877}}
+{"departement":"Bas-Rhin","candidat":"François ASSELINEAU","voix":6837,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":878}}
+{"departement":"Bas-Rhin","candidat":"Philippe POUTOU","voix":6553,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":879}}
+{"departement":"Bas-Rhin","candidat":"Jean LASSALLE","voix":6419,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":880}}
+{"departement":"Bas-Rhin","candidat":"Nathalie ARTHAUD","voix":4845,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":881}}
+{"departement":"Bas-Rhin","candidat":"Jacques CHEMINADE","voix":1206,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":882}}
+{"departement":"Bas-Rhin","candidat":"Votes blancs","voix":9796,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":883}}
+{"departement":"Bas-Rhin","candidat":"Votes nuls","voix":4613,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":884}}
+{"departement":"Haut-Rhin","candidat":"Marine LE PEN","voix":109704,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":885}}
+{"departement":"Haut-Rhin","candidat":"François FILLON","voix":90237,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":886}}
+{"departement":"Haut-Rhin","candidat":"Emmanuel MACRON","voix":79798,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":887}}
+{"departement":"Haut-Rhin","candidat":"Jean-Luc MELENCHON","voix":57856,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":888}}
+{"departement":"Haut-Rhin","candidat":"Nicolas DUPONT-AIGNAN","voix":28562,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":889}}
+{"departement":"Haut-Rhin","candidat":"Benoît HAMON","voix":18694,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":890}}
+{"departement":"Haut-Rhin","candidat":"François ASSELINEAU","voix":5217,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":891}}
+{"departement":"Haut-Rhin","candidat":"Jean LASSALLE","voix":5004,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":892}}
+{"departement":"Haut-Rhin","candidat":"Philippe POUTOU","voix":4727,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":893}}
+{"departement":"Haut-Rhin","candidat":"Nathalie ARTHAUD","voix":3101,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":894}}
+{"departement":"Haut-Rhin","candidat":"Jacques CHEMINADE","voix":1010,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":895}}
+{"departement":"Haut-Rhin","candidat":"Votes blancs","voix":9073,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":896}}
+{"departement":"Haut-Rhin","candidat":"Votes nuls","voix":2811,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":897}}
+{"departement":"Rhône","candidat":"François FILLON","voix":32721,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":898}}
+{"departement":"Rhône","candidat":"Marine LE PEN","voix":32224,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":899}}
+{"departement":"Rhône","candidat":"Emmanuel MACRON","voix":31080,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":900}}
+{"departement":"Rhône","candidat":"Jean-Luc MELENCHON","voix":20557,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":901}}
+{"departement":"Rhône","candidat":"Nicolas DUPONT-AIGNAN","voix":8489,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":902}}
+{"departement":"Rhône","candidat":"Benoît HAMON","voix":6918,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":903}}
+{"departement":"Rhône","candidat":"Jean LASSALLE","voix":1401,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":904}}
+{"departement":"Rhône","candidat":"François ASSELINEAU","voix":1355,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":905}}
+{"departement":"Rhône","candidat":"Philippe POUTOU","voix":1215,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":906}}
+{"departement":"Rhône","candidat":"Nathalie ARTHAUD","voix":719,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":907}}
+{"departement":"Rhône","candidat":"Jacques CHEMINADE","voix":228,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":908}}
+{"departement":"Rhône","candidat":"Votes blancs","voix":2551,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":909}}
+{"departement":"Rhône","candidat":"Votes nuls","voix":880,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":910}}
+{"departement":"Haute-Saône","candidat":"Marine LE PEN","voix":43753,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":911}}
+{"departement":"Haute-Saône","candidat":"Emmanuel MACRON","voix":27332,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":912}}
+{"departement":"Haute-Saône","candidat":"François FILLON","voix":25184,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":913}}
+{"departement":"Haute-Saône","candidat":"Jean-Luc MELENCHON","voix":22150,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":914}}
+{"departement":"Haute-Saône","candidat":"Nicolas DUPONT-AIGNAN","voix":8176,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":915}}
+{"departement":"Haute-Saône","candidat":"Benoît HAMON","voix":6596,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":916}}
+{"departement":"Haute-Saône","candidat":"Philippe POUTOU","voix":2020,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":917}}
+{"departement":"Haute-Saône","candidat":"Jean LASSALLE","voix":1512,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":918}}
+{"departement":"Haute-Saône","candidat":"Nathalie ARTHAUD","voix":1325,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":919}}
+{"departement":"Haute-Saône","candidat":"François ASSELINEAU","voix":1206,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":920}}
+{"departement":"Haute-Saône","candidat":"Jacques CHEMINADE","voix":267,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":921}}
+{"departement":"Haute-Saône","candidat":"Votes blancs","voix":2741,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":922}}
+{"departement":"Haute-Saône","candidat":"Votes nuls","voix":1976,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":923}}
+{"departement":"Saône-et-Loire","candidat":"Marine LE PEN","voix":75257,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":924}}
+{"departement":"Saône-et-Loire","candidat":"Emmanuel MACRON","voix":69212,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":925}}
+{"departement":"Saône-et-Loire","candidat":"François FILLON","voix":60100,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":926}}
+{"departement":"Saône-et-Loire","candidat":"Jean-Luc MELENCHON","voix":55249,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":927}}
+{"departement":"Saône-et-Loire","candidat":"Benoît HAMON","voix":19184,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":928}}
+{"departement":"Saône-et-Loire","candidat":"Nicolas DUPONT-AIGNAN","voix":18961,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":929}}
+{"departement":"Saône-et-Loire","candidat":"Philippe POUTOU","voix":3588,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":930}}
+{"departement":"Saône-et-Loire","candidat":"Jean LASSALLE","voix":3153,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":931}}
+{"departement":"Saône-et-Loire","candidat":"François ASSELINEAU","voix":2535,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":932}}
+{"departement":"Saône-et-Loire","candidat":"Nathalie ARTHAUD","voix":2201,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":933}}
+{"departement":"Saône-et-Loire","candidat":"Jacques CHEMINADE","voix":509,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":934}}
+{"departement":"Saône-et-Loire","candidat":"Votes blancs","voix":6844,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":935}}
+{"departement":"Saône-et-Loire","candidat":"Votes nuls","voix":2870,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":936}}
+{"departement":"Sarthe","candidat":"François FILLON","voix":92261,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":937}}
+{"departement":"Sarthe","candidat":"Marine LE PEN","voix":67082,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":938}}
+{"departement":"Sarthe","candidat":"Emmanuel MACRON","voix":64617,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":939}}
+{"departement":"Sarthe","candidat":"Jean-Luc MELENCHON","voix":56851,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":940}}
+{"departement":"Sarthe","candidat":"Benoît HAMON","voix":17195,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":941}}
+{"departement":"Sarthe","candidat":"Nicolas DUPONT-AIGNAN","voix":13657,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":942}}
+{"departement":"Sarthe","candidat":"Philippe POUTOU","voix":3565,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":943}}
+{"departement":"Sarthe","candidat":"Nathalie ARTHAUD","voix":2452,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":944}}
+{"departement":"Sarthe","candidat":"Jean LASSALLE","voix":2141,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":945}}
+{"departement":"Sarthe","candidat":"François ASSELINEAU","voix":2074,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":946}}
+{"departement":"Sarthe","candidat":"Jacques CHEMINADE","voix":547,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":947}}
+{"departement":"Sarthe","candidat":"Votes blancs","voix":7211,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":948}}
+{"departement":"Sarthe","candidat":"Votes nuls","voix":2211,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":949}}
+{"departement":"Savoie","candidat":"Emmanuel MACRON","voix":55871,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":950}}
+{"departement":"Savoie","candidat":"Marine LE PEN","voix":52448,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":951}}
+{"departement":"Savoie","candidat":"François FILLON","voix":50815,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":952}}
+{"departement":"Savoie","candidat":"Jean-Luc MELENCHON","voix":45013,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":953}}
+{"departement":"Savoie","candidat":"Benoît HAMON","voix":13752,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":954}}
+{"departement":"Savoie","candidat":"Nicolas DUPONT-AIGNAN","voix":13673,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":955}}
+{"departement":"Savoie","candidat":"Jean LASSALLE","voix":3152,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":956}}
+{"departement":"Savoie","candidat":"François ASSELINEAU","voix":2608,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":957}}
+{"departement":"Savoie","candidat":"Philippe POUTOU","voix":2578,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":958}}
+{"departement":"Savoie","candidat":"Nathalie ARTHAUD","voix":1219,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":959}}
+{"departement":"Savoie","candidat":"Jacques CHEMINADE","voix":430,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":960}}
+{"departement":"Savoie","candidat":"Votes blancs","voix":4226,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":961}}
+{"departement":"Savoie","candidat":"Votes nuls","voix":1704,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":962}}
+{"departement":"Haute-Savoie","candidat":"François FILLON","voix":105050,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":963}}
+{"departement":"Haute-Savoie","candidat":"Emmanuel MACRON","voix":100174,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":964}}
+{"departement":"Haute-Savoie","candidat":"Marine LE PEN","voix":77918,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":965}}
+{"departement":"Haute-Savoie","candidat":"Jean-Luc MELENCHON","voix":67077,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":966}}
+{"departement":"Haute-Savoie","candidat":"Nicolas DUPONT-AIGNAN","voix":24784,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":967}}
+{"departement":"Haute-Savoie","candidat":"Benoît HAMON","voix":21805,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":968}}
+{"departement":"Haute-Savoie","candidat":"François ASSELINEAU","voix":5021,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":969}}
+{"departement":"Haute-Savoie","candidat":"Jean LASSALLE","voix":4649,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":970}}
+{"departement":"Haute-Savoie","candidat":"Philippe POUTOU","voix":4263,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":971}}
+{"departement":"Haute-Savoie","candidat":"Nathalie ARTHAUD","voix":1919,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":972}}
+{"departement":"Haute-Savoie","candidat":"Jacques CHEMINADE","voix":827,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":973}}
+{"departement":"Haute-Savoie","candidat":"Votes blancs","voix":7726,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":974}}
+{"departement":"Haute-Savoie","candidat":"Votes nuls","voix":2551,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":975}}
+{"departement":"Paris","candidat":"Emmanuel MACRON","voix":375005,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":976}}
+{"departement":"Paris","candidat":"François FILLON","voix":284744,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":977}}
+{"departement":"Paris","candidat":"Jean-Luc MELENCHON","voix":210548,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":978}}
+{"departement":"Paris","candidat":"Benoît HAMON","voix":109550,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":979}}
+{"departement":"Paris","candidat":"Marine LE PEN","voix":53719,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":980}}
+{"departement":"Paris","candidat":"Nicolas DUPONT-AIGNAN","voix":17997,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":981}}
+{"departement":"Paris","candidat":"François ASSELINEAU","voix":8335,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":982}}
+{"departement":"Paris","candidat":"Philippe POUTOU","voix":6799,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":983}}
+{"departement":"Paris","candidat":"Jean LASSALLE","voix":5490,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":984}}
+{"departement":"Paris","candidat":"Nathalie ARTHAUD","voix":2897,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":985}}
+{"departement":"Paris","candidat":"Jacques CHEMINADE","voix":1472,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":986}}
+{"departement":"Paris","candidat":"Votes blancs","voix":10627,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":987}}
+{"departement":"Paris","candidat":"Votes nuls","voix":4254,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":988}}
+{"departement":"Seine-Maritime","candidat":"Marine LE PEN","voix":170943,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":989}}
+{"departement":"Seine-Maritime","candidat":"Jean-Luc MELENCHON","voix":152393,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":990}}
+{"departement":"Seine-Maritime","candidat":"Emmanuel MACRON","voix":145756,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":991}}
+{"departement":"Seine-Maritime","candidat":"François FILLON","voix":118333,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":992}}
+{"departement":"Seine-Maritime","candidat":"Benoît HAMON","voix":41516,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":993}}
+{"departement":"Seine-Maritime","candidat":"Nicolas DUPONT-AIGNAN","voix":33036,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":994}}
+{"departement":"Seine-Maritime","candidat":"Philippe POUTOU","voix":8321,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":995}}
+{"departement":"Seine-Maritime","candidat":"Nathalie ARTHAUD","voix":5356,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":996}}
+{"departement":"Seine-Maritime","candidat":"François ASSELINEAU","voix":5205,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":997}}
+{"departement":"Seine-Maritime","candidat":"Jean LASSALLE","voix":4383,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":998}}
+{"departement":"Seine-Maritime","candidat":"Jacques CHEMINADE","voix":1278,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":999}}
+{"departement":"Seine-Maritime","candidat":"Votes blancs","voix":13885,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1000}}
+{"departement":"Seine-Maritime","candidat":"Votes nuls","voix":3957,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1001}}
+{"departement":"Seine-et-Marne","candidat":"Emmanuel MACRON","voix":157372,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1002}}
+{"departement":"Seine-et-Marne","candidat":"Marine LE PEN","voix":155609,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1003}}
+{"departement":"Seine-et-Marne","candidat":"Jean-Luc MELENCHON","voix":141867,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1004}}
+{"departement":"Seine-et-Marne","candidat":"François FILLON","voix":120945,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1005}}
+{"departement":"Seine-et-Marne","candidat":"Nicolas DUPONT-AIGNAN","voix":41528,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1006}}
+{"departement":"Seine-et-Marne","candidat":"Benoît HAMON","voix":38782,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1007}}
+{"departement":"Seine-et-Marne","candidat":"François ASSELINEAU","voix":8197,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1008}}
+{"departement":"Seine-et-Marne","candidat":"Philippe POUTOU","voix":6354,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1009}}
+{"departement":"Seine-et-Marne","candidat":"Jean LASSALLE","voix":5185,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1010}}
+{"departement":"Seine-et-Marne","candidat":"Nathalie ARTHAUD","voix":3706,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1011}}
+{"departement":"Seine-et-Marne","candidat":"Jacques CHEMINADE","voix":1247,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1012}}
+{"departement":"Seine-et-Marne","candidat":"Votes blancs","voix":12958,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1013}}
+{"departement":"Seine-et-Marne","candidat":"Votes nuls","voix":4407,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1014}}
+{"departement":"Yvelines","candidat":"Emmanuel MACRON","voix":219061,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1015}}
+{"departement":"Yvelines","candidat":"François FILLON","voix":206835,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1016}}
+{"departement":"Yvelines","candidat":"Jean-Luc MELENCHON","voix":126340,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1017}}
+{"departement":"Yvelines","candidat":"Marine LE PEN","voix":98024,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1018}}
+{"departement":"Yvelines","candidat":"Benoît HAMON","voix":52564,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1019}}
+{"departement":"Yvelines","candidat":"Nicolas DUPONT-AIGNAN","voix":32906,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1020}}
+{"departement":"Yvelines","candidat":"François ASSELINEAU","voix":8147,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1021}}
+{"departement":"Yvelines","candidat":"Philippe POUTOU","voix":5448,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1022}}
+{"departement":"Yvelines","candidat":"Jean LASSALLE","voix":5371,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1023}}
+{"departement":"Yvelines","candidat":"Nathalie ARTHAUD","voix":2872,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1024}}
+{"departement":"Yvelines","candidat":"Jacques CHEMINADE","voix":1358,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1025}}
+{"departement":"Yvelines","candidat":"Votes blancs","voix":10762,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1026}}
+{"departement":"Yvelines","candidat":"Votes nuls","voix":3972,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1027}}
+{"departement":"Deux-Sèvres","candidat":"Emmanuel MACRON","voix":57826,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1028}}
+{"departement":"Deux-Sèvres","candidat":"Jean-Luc MELENCHON","voix":41609,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1029}}
+{"departement":"Deux-Sèvres","candidat":"François FILLON","voix":40195,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1030}}
+{"departement":"Deux-Sèvres","candidat":"Marine LE PEN","voix":38640,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1031}}
+{"departement":"Deux-Sèvres","candidat":"Benoît HAMON","voix":14950,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1032}}
+{"departement":"Deux-Sèvres","candidat":"Nicolas DUPONT-AIGNAN","voix":11356,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1033}}
+{"departement":"Deux-Sèvres","candidat":"Philippe POUTOU","voix":3483,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1034}}
+{"departement":"Deux-Sèvres","candidat":"Jean LASSALLE","voix":2599,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1035}}
+{"departement":"Deux-Sèvres","candidat":"Nathalie ARTHAUD","voix":1869,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1036}}
+{"departement":"Deux-Sèvres","candidat":"François ASSELINEAU","voix":1478,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1037}}
+{"departement":"Deux-Sèvres","candidat":"Jacques CHEMINADE","voix":393,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1038}}
+{"departement":"Deux-Sèvres","candidat":"Votes blancs","voix":4631,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1039}}
+{"departement":"Deux-Sèvres","candidat":"Votes nuls","voix":2414,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1040}}
+{"departement":"Somme","candidat":"Marine LE PEN","voix":97081,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1041}}
+{"departement":"Somme","candidat":"Emmanuel MACRON","voix":69519,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1042}}
+{"departement":"Somme","candidat":"Jean-Luc MELENCHON","voix":59491,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1043}}
+{"departement":"Somme","candidat":"François FILLON","voix":51830,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1044}}
+{"departement":"Somme","candidat":"Nicolas DUPONT-AIGNAN","voix":15462,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1045}}
+{"departement":"Somme","candidat":"Benoît HAMON","voix":14260,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1046}}
+{"departement":"Somme","candidat":"Philippe POUTOU","voix":3661,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1047}}
+{"departement":"Somme","candidat":"Nathalie ARTHAUD","voix":3111,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1048}}
+{"departement":"Somme","candidat":"Jean LASSALLE","voix":2365,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1049}}
+{"departement":"Somme","candidat":"François ASSELINEAU","voix":2272,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1050}}
+{"departement":"Somme","candidat":"Jacques CHEMINADE","voix":579,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1051}}
+{"departement":"Somme","candidat":"Votes blancs","voix":6122,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1052}}
+{"departement":"Somme","candidat":"Votes nuls","voix":2772,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1053}}
+{"departement":"Tarn","candidat":"Marine LE PEN","voix":52402,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1054}}
+{"departement":"Tarn","candidat":"Emmanuel MACRON","voix":51755,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1055}}
+{"departement":"Tarn","candidat":"Jean-Luc MELENCHON","voix":48094,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1056}}
+{"departement":"Tarn","candidat":"François FILLON","voix":41052,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1057}}
+{"departement":"Tarn","candidat":"Benoît HAMON","voix":15530,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1058}}
+{"departement":"Tarn","candidat":"Nicolas DUPONT-AIGNAN","voix":11440,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1059}}
+{"departement":"Tarn","candidat":"Jean LASSALLE","voix":7105,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1060}}
+{"departement":"Tarn","candidat":"Philippe POUTOU","voix":2721,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1061}}
+{"departement":"Tarn","candidat":"François ASSELINEAU","voix":1822,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1062}}
+{"departement":"Tarn","candidat":"Nathalie ARTHAUD","voix":1397,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1063}}
+{"departement":"Tarn","candidat":"Jacques CHEMINADE","voix":439,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1064}}
+{"departement":"Tarn","candidat":"Votes blancs","voix":4296,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1065}}
+{"departement":"Tarn","candidat":"Votes nuls","voix":2634,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1066}}
+{"departement":"Tarn-et-Garonne","candidat":"Marine LE PEN","voix":39183,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1067}}
+{"departement":"Tarn-et-Garonne","candidat":"Emmanuel MACRON","voix":30319,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1068}}
+{"departement":"Tarn-et-Garonne","candidat":"Jean-Luc MELENCHON","voix":27841,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1069}}
+{"departement":"Tarn-et-Garonne","candidat":"François FILLON","voix":25992,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1070}}
+{"departement":"Tarn-et-Garonne","candidat":"Benoît HAMON","voix":8567,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1071}}
+{"departement":"Tarn-et-Garonne","candidat":"Nicolas DUPONT-AIGNAN","voix":7233,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1072}}
+{"departement":"Tarn-et-Garonne","candidat":"Jean LASSALLE","voix":3660,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1073}}
+{"departement":"Tarn-et-Garonne","candidat":"Philippe POUTOU","voix":1573,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1074}}
+{"departement":"Tarn-et-Garonne","candidat":"François ASSELINEAU","voix":1337,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1075}}
+{"departement":"Tarn-et-Garonne","candidat":"Nathalie ARTHAUD","voix":830,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1076}}
+{"departement":"Tarn-et-Garonne","candidat":"Jacques CHEMINADE","voix":266,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1077}}
+{"departement":"Tarn-et-Garonne","candidat":"Votes blancs","voix":2551,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1078}}
+{"departement":"Tarn-et-Garonne","candidat":"Votes nuls","voix":1367,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1079}}
+{"departement":"Var","candidat":"Marine LE PEN","voix":186376,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1080}}
+{"departement":"Var","candidat":"François FILLON","voix":152316,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1081}}
+{"departement":"Var","candidat":"Emmanuel MACRON","voix":108597,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1082}}
+{"departement":"Var","candidat":"Jean-Luc MELENCHON","voix":94184,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1083}}
+{"departement":"Var","candidat":"Nicolas DUPONT-AIGNAN","voix":29177,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1084}}
+{"departement":"Var","candidat":"Benoît HAMON","voix":21089,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1085}}
+{"departement":"Var","candidat":"Jean LASSALLE","voix":6933,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1086}}
+{"departement":"Var","candidat":"François ASSELINEAU","voix":5860,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1087}}
+{"departement":"Var","candidat":"Philippe POUTOU","voix":4655,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1088}}
+{"departement":"Var","candidat":"Nathalie ARTHAUD","voix":2274,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1089}}
+{"departement":"Var","candidat":"Jacques CHEMINADE","voix":977,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1090}}
+{"departement":"Var","candidat":"Votes blancs","voix":9858,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1091}}
+{"departement":"Var","candidat":"Votes nuls","voix":3374,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1092}}
+{"departement":"Vaucluse","candidat":"Marine LE PEN","voix":95933,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1093}}
+{"departement":"Vaucluse","candidat":"Jean-Luc MELENCHON","voix":60856,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1094}}
+{"departement":"Vaucluse","candidat":"François FILLON","voix":59546,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1095}}
+{"departement":"Vaucluse","candidat":"Emmanuel MACRON","voix":58135,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1096}}
+{"departement":"Vaucluse","candidat":"Nicolas DUPONT-AIGNAN","voix":14427,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1097}}
+{"departement":"Vaucluse","candidat":"Benoît HAMON","voix":13532,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1098}}
+{"departement":"Vaucluse","candidat":"Jean LASSALLE","voix":3986,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1099}}
+{"departement":"Vaucluse","candidat":"François ASSELINEAU","voix":2888,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1100}}
+{"departement":"Vaucluse","candidat":"Philippe POUTOU","voix":2805,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1101}}
+{"departement":"Vaucluse","candidat":"Nathalie ARTHAUD","voix":1390,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1102}}
+{"departement":"Vaucluse","candidat":"Jacques CHEMINADE","voix":543,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1103}}
+{"departement":"Vaucluse","candidat":"Votes blancs","voix":5535,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1104}}
+{"departement":"Vaucluse","candidat":"Votes nuls","voix":1972,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1105}}
+{"departement":"Vendée","candidat":"Emmanuel MACRON","voix":109989,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1106}}
+{"departement":"Vendée","candidat":"François FILLON","voix":106804,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1107}}
+{"departement":"Vendée","candidat":"Marine LE PEN","voix":77590,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1108}}
+{"departement":"Vendée","candidat":"Jean-Luc MELENCHON","voix":63155,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1109}}
+{"departement":"Vendée","candidat":"Nicolas DUPONT-AIGNAN","voix":24211,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1110}}
+{"departement":"Vendée","candidat":"Benoît HAMON","voix":21356,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1111}}
+{"departement":"Vendée","candidat":"Philippe POUTOU","voix":5219,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1112}}
+{"departement":"Vendée","candidat":"Jean LASSALLE","voix":3810,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1113}}
+{"departement":"Vendée","candidat":"Nathalie ARTHAUD","voix":3294,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1114}}
+{"departement":"Vendée","candidat":"François ASSELINEAU","voix":2705,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1115}}
+{"departement":"Vendée","candidat":"Jacques CHEMINADE","voix":696,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1116}}
+{"departement":"Vendée","candidat":"Votes blancs","voix":8280,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1117}}
+{"departement":"Vendée","candidat":"Votes nuls","voix":4465,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1118}}
+{"departement":"Vienne","candidat":"Emmanuel MACRON","voix":59146,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1119}}
+{"departement":"Vienne","candidat":"Jean-Luc MELENCHON","voix":49061,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1120}}
+{"departement":"Vienne","candidat":"Marine LE PEN","voix":47024,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1121}}
+{"departement":"Vienne","candidat":"François FILLON","voix":42703,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1122}}
+{"departement":"Vienne","candidat":"Benoît HAMON","voix":16861,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1123}}
+{"departement":"Vienne","candidat":"Nicolas DUPONT-AIGNAN","voix":11920,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1124}}
+{"departement":"Vienne","candidat":"Philippe POUTOU","voix":3642,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1125}}
+{"departement":"Vienne","candidat":"Jean LASSALLE","voix":2861,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1126}}
+{"departement":"Vienne","candidat":"Nathalie ARTHAUD","voix":2074,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1127}}
+{"departement":"Vienne","candidat":"François ASSELINEAU","voix":1896,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1128}}
+{"departement":"Vienne","candidat":"Jacques CHEMINADE","voix":560,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1129}}
+{"departement":"Vienne","candidat":"Votes blancs","voix":4742,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1130}}
+{"departement":"Vienne","candidat":"Votes nuls","voix":2397,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1131}}
+{"departement":"Haute-Vienne","candidat":"Emmanuel MACRON","voix":55577,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1132}}
+{"departement":"Haute-Vienne","candidat":"Jean-Luc MELENCHON","voix":46549,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1133}}
+{"departement":"Haute-Vienne","candidat":"Marine LE PEN","voix":37937,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1134}}
+{"departement":"Haute-Vienne","candidat":"François FILLON","voix":32521,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1135}}
+{"departement":"Haute-Vienne","candidat":"Benoît HAMON","voix":16136,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1136}}
+{"departement":"Haute-Vienne","candidat":"Nicolas DUPONT-AIGNAN","voix":9285,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1137}}
+{"departement":"Haute-Vienne","candidat":"Jean LASSALLE","voix":3518,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1138}}
+{"departement":"Haute-Vienne","candidat":"Philippe POUTOU","voix":3044,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1139}}
+{"departement":"Haute-Vienne","candidat":"Nathalie ARTHAUD","voix":1850,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1140}}
+{"departement":"Haute-Vienne","candidat":"François ASSELINEAU","voix":1557,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1141}}
+{"departement":"Haute-Vienne","candidat":"Jacques CHEMINADE","voix":440,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1142}}
+{"departement":"Haute-Vienne","candidat":"Votes blancs","voix":4478,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1143}}
+{"departement":"Haute-Vienne","candidat":"Votes nuls","voix":2810,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1144}}
+{"departement":"Vosges","candidat":"Marine LE PEN","voix":63924,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1145}}
+{"departement":"Vosges","candidat":"Emmanuel MACRON","voix":43604,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1146}}
+{"departement":"Vosges","candidat":"François FILLON","voix":39579,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1147}}
+{"departement":"Vosges","candidat":"Jean-Luc MELENCHON","voix":36524,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1148}}
+{"departement":"Vosges","candidat":"Nicolas DUPONT-AIGNAN","voix":14323,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1149}}
+{"departement":"Vosges","candidat":"Benoît HAMON","voix":10887,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1150}}
+{"departement":"Vosges","candidat":"Philippe POUTOU","voix":3229,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1151}}
+{"departement":"Vosges","candidat":"Jean LASSALLE","voix":2750,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1152}}
+{"departement":"Vosges","candidat":"François ASSELINEAU","voix":2223,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1153}}
+{"departement":"Vosges","candidat":"Nathalie ARTHAUD","voix":2004,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1154}}
+{"departement":"Vosges","candidat":"Jacques CHEMINADE","voix":455,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1155}}
+{"departement":"Vosges","candidat":"Votes blancs","voix":4712,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1156}}
+{"departement":"Vosges","candidat":"Votes nuls","voix":2005,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1157}}
+{"departement":"Yonne","candidat":"Marine LE PEN","voix":52639,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1158}}
+{"departement":"Yonne","candidat":"François FILLON","voix":36739,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1159}}
+{"departement":"Yonne","candidat":"Emmanuel MACRON","voix":36234,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1160}}
+{"departement":"Yonne","candidat":"Jean-Luc MELENCHON","voix":30815,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1161}}
+{"departement":"Yonne","candidat":"Nicolas DUPONT-AIGNAN","voix":11668,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1162}}
+{"departement":"Yonne","candidat":"Benoît HAMON","voix":8846,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1163}}
+{"departement":"Yonne","candidat":"Philippe POUTOU","voix":2128,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1164}}
+{"departement":"Yonne","candidat":"Jean LASSALLE","voix":1987,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1165}}
+{"departement":"Yonne","candidat":"François ASSELINEAU","voix":1775,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1166}}
+{"departement":"Yonne","candidat":"Nathalie ARTHAUD","voix":1380,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1167}}
+{"departement":"Yonne","candidat":"Jacques CHEMINADE","voix":341,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1168}}
+{"departement":"Yonne","candidat":"Votes blancs","voix":3324,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1169}}
+{"departement":"Yonne","candidat":"Votes nuls","voix":1362,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1170}}
+{"departement":"Territoire de Belfort","candidat":"Marine LE PEN","voix":19249,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1171}}
+{"departement":"Territoire de Belfort","candidat":"Emmanuel MACRON","voix":14772,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1172}}
+{"departement":"Territoire de Belfort","candidat":"Jean-Luc MELENCHON","voix":13672,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1173}}
+{"departement":"Territoire de Belfort","candidat":"François FILLON","voix":12668,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1174}}
+{"departement":"Territoire de Belfort","candidat":"Benoît HAMON","voix":4189,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1175}}
+{"departement":"Territoire de Belfort","candidat":"Nicolas DUPONT-AIGNAN","voix":3770,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1176}}
+{"departement":"Territoire de Belfort","candidat":"François ASSELINEAU","voix":941,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1177}}
+{"departement":"Territoire de Belfort","candidat":"Philippe POUTOU","voix":886,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1178}}
+{"departement":"Territoire de Belfort","candidat":"Jean LASSALLE","voix":668,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1179}}
+{"departement":"Territoire de Belfort","candidat":"Nathalie ARTHAUD","voix":592,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1180}}
+{"departement":"Territoire de Belfort","candidat":"Jacques CHEMINADE","voix":167,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1181}}
+{"departement":"Territoire de Belfort","candidat":"Votes blancs","voix":1400,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1182}}
+{"departement":"Territoire de Belfort","candidat":"Votes nuls","voix":758,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1183}}
+{"departement":"Essonne","candidat":"Emmanuel MACRON","voix":163389,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1184}}
+{"departement":"Essonne","candidat":"Jean-Luc MELENCHON","voix":136392,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1185}}
+{"departement":"Essonne","candidat":"François FILLON","voix":112474,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1186}}
+{"departement":"Essonne","candidat":"Marine LE PEN","voix":102461,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1187}}
+{"departement":"Essonne","candidat":"Nicolas DUPONT-AIGNAN","voix":44792,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1188}}
+{"departement":"Essonne","candidat":"Benoît HAMON","voix":42072,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1189}}
+{"departement":"Essonne","candidat":"François ASSELINEAU","voix":7514,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1190}}
+{"departement":"Essonne","candidat":"Philippe POUTOU","voix":5755,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1191}}
+{"departement":"Essonne","candidat":"Jean LASSALLE","voix":4468,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1192}}
+{"departement":"Essonne","candidat":"Nathalie ARTHAUD","voix":2924,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1193}}
+{"departement":"Essonne","candidat":"Jacques CHEMINADE","voix":1241,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1194}}
+{"departement":"Essonne","candidat":"Votes blancs","voix":10240,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1195}}
+{"departement":"Essonne","candidat":"Votes nuls","voix":4065,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1196}}
+{"departement":"Hauts-de-Seine","candidat":"Emmanuel MACRON","voix":256685,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1197}}
+{"departement":"Hauts-de-Seine","candidat":"François FILLON","voix":231553,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1198}}
+{"departement":"Hauts-de-Seine","candidat":"Jean-Luc MELENCHON","voix":145289,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1199}}
+{"departement":"Hauts-de-Seine","candidat":"Marine LE PEN","voix":60730,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1200}}
+{"departement":"Hauts-de-Seine","candidat":"Benoît HAMON","voix":57114,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1201}}
+{"departement":"Hauts-de-Seine","candidat":"Nicolas DUPONT-AIGNAN","voix":21359,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1202}}
+{"departement":"Hauts-de-Seine","candidat":"François ASSELINEAU","voix":8453,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1203}}
+{"departement":"Hauts-de-Seine","candidat":"Philippe POUTOU","voix":5033,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1204}}
+{"departement":"Hauts-de-Seine","candidat":"Jean LASSALLE","voix":4747,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1205}}
+{"departement":"Hauts-de-Seine","candidat":"Nathalie ARTHAUD","voix":2447,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1206}}
+{"departement":"Hauts-de-Seine","candidat":"Jacques CHEMINADE","voix":1344,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1207}}
+{"departement":"Hauts-de-Seine","candidat":"Votes blancs","voix":12690,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1208}}
+{"departement":"Hauts-de-Seine","candidat":"Votes nuls","voix":2571,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1209}}
+{"departement":"Seine-Saint-Denis","candidat":"Jean-Luc MELENCHON","voix":184123,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1210}}
+{"departement":"Seine-Saint-Denis","candidat":"Emmanuel MACRON","voix":130103,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1211}}
+{"departement":"Seine-Saint-Denis","candidat":"Marine LE PEN","voix":73534,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1212}}
+{"departement":"Seine-Saint-Denis","candidat":"François FILLON","voix":69063,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1213}}
+{"departement":"Seine-Saint-Denis","candidat":"Benoît HAMON","voix":45506,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1214}}
+{"departement":"Seine-Saint-Denis","candidat":"Nicolas DUPONT-AIGNAN","voix":16601,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1215}}
+{"departement":"Seine-Saint-Denis","candidat":"François ASSELINEAU","voix":8739,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1216}}
+{"departement":"Seine-Saint-Denis","candidat":"Philippe POUTOU","voix":6050,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1217}}
+{"departement":"Seine-Saint-Denis","candidat":"Nathalie ARTHAUD","voix":3235,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1218}}
+{"departement":"Seine-Saint-Denis","candidat":"Jean LASSALLE","voix":3160,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1219}}
+{"departement":"Seine-Saint-Denis","candidat":"Jacques CHEMINADE","voix":1088,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1220}}
+{"departement":"Seine-Saint-Denis","candidat":"Votes blancs","voix":10148,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1221}}
+{"departement":"Seine-Saint-Denis","candidat":"Votes nuls","voix":4592,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1222}}
+{"departement":"Val-de-Marne","candidat":"Emmanuel MACRON","voix":172202,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1223}}
+{"departement":"Val-de-Marne","candidat":"Jean-Luc MELENCHON","voix":149112,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1224}}
+{"departement":"Val-de-Marne","candidat":"François FILLON","voix":122814,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1225}}
+{"departement":"Val-de-Marne","candidat":"Marine LE PEN","voix":69878,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1226}}
+{"departement":"Val-de-Marne","candidat":"Benoît HAMON","voix":47228,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1227}}
+{"departement":"Val-de-Marne","candidat":"Nicolas DUPONT-AIGNAN","voix":26252,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1228}}
+{"departement":"Val-de-Marne","candidat":"François ASSELINEAU","voix":7303,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1229}}
+{"departement":"Val-de-Marne","candidat":"Philippe POUTOU","voix":5226,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1230}}
+{"departement":"Val-de-Marne","candidat":"Jean LASSALLE","voix":3957,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1231}}
+{"departement":"Val-de-Marne","candidat":"Nathalie ARTHAUD","voix":2749,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1232}}
+{"departement":"Val-de-Marne","candidat":"Jacques CHEMINADE","voix":1066,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1233}}
+{"departement":"Val-de-Marne","candidat":"Votes blancs","voix":9925,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1234}}
+{"departement":"Val-de-Marne","candidat":"Votes nuls","voix":3760,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1235}}
+{"departement":"Val-d'Oise","candidat":"Emmanuel MACRON","voix":138993,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1236}}
+{"departement":"Val-d'Oise","candidat":"Jean-Luc MELENCHON","voix":131635,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1237}}
+{"departement":"Val-d'Oise","candidat":"François FILLON","voix":101242,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1238}}
+{"departement":"Val-d'Oise","candidat":"Marine LE PEN","voix":94384,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1239}}
+{"departement":"Val-d'Oise","candidat":"Benoît HAMON","voix":37588,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1240}}
+{"departement":"Val-d'Oise","candidat":"Nicolas DUPONT-AIGNAN","voix":24831,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1241}}
+{"departement":"Val-d'Oise","candidat":"François ASSELINEAU","voix":7715,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1242}}
+{"departement":"Val-d'Oise","candidat":"Philippe POUTOU","voix":5050,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1243}}
+{"departement":"Val-d'Oise","candidat":"Jean LASSALLE","voix":3980,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1244}}
+{"departement":"Val-d'Oise","candidat":"Nathalie ARTHAUD","voix":2762,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1245}}
+{"departement":"Val-d'Oise","candidat":"Jacques CHEMINADE","voix":979,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1246}}
+{"departement":"Val-d'Oise","candidat":"Votes blancs","voix":10090,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1247}}
+{"departement":"Val-d'Oise","candidat":"Votes nuls","voix":3688,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1248}}
+{"departement":"Métropole de Lyon","candidat":"Emmanuel MACRON","voix":205057,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1249}}
+{"departement":"Métropole de Lyon","candidat":"François FILLON","voix":173060,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1250}}
+{"departement":"Métropole de Lyon","candidat":"Jean-Luc MELENCHON","voix":154494,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1251}}
+{"departement":"Métropole de Lyon","candidat":"Marine LE PEN","voix":112252,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1252}}
+{"departement":"Métropole de Lyon","candidat":"Benoît HAMON","voix":53176,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1253}}
+{"departement":"Métropole de Lyon","candidat":"Nicolas DUPONT-AIGNAN","voix":29940,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1254}}
+{"departement":"Métropole de Lyon","candidat":"François ASSELINEAU","voix":7833,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1255}}
+{"departement":"Métropole de Lyon","candidat":"Philippe POUTOU","voix":5931,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1256}}
+{"departement":"Métropole de Lyon","candidat":"Jean LASSALLE","voix":5302,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1257}}
+{"departement":"Métropole de Lyon","candidat":"Nathalie ARTHAUD","voix":3342,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1258}}
+{"departement":"Métropole de Lyon","candidat":"Jacques CHEMINADE","voix":1218,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1259}}
+{"departement":"Métropole de Lyon","candidat":"Votes blancs","voix":10466,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1260}}
+{"departement":"Métropole de Lyon","candidat":"Votes nuls","voix":4122,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1261}}
+{"departement":"Guadeloupe","candidat":"Emmanuel MACRON","voix":33992,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1262}}
+{"departement":"Guadeloupe","candidat":"Jean-Luc MELENCHON","voix":27139,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1263}}
+{"departement":"Guadeloupe","candidat":"François FILLON","voix":16337,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1264}}
+{"departement":"Guadeloupe","candidat":"Marine LE PEN","voix":15203,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1265}}
+{"departement":"Guadeloupe","candidat":"Benoît HAMON","voix":11188,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1266}}
+{"departement":"Guadeloupe","candidat":"Philippe POUTOU","voix":2308,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1267}}
+{"departement":"Guadeloupe","candidat":"Nicolas DUPONT-AIGNAN","voix":2042,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1268}}
+{"departement":"Guadeloupe","candidat":"Nathalie ARTHAUD","voix":1980,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1269}}
+{"departement":"Guadeloupe","candidat":"François ASSELINEAU","voix":1319,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1270}}
+{"departement":"Guadeloupe","candidat":"Jean LASSALLE","voix":658,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1271}}
+{"departement":"Guadeloupe","candidat":"Jacques CHEMINADE","voix":327,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1272}}
+{"departement":"Guadeloupe","candidat":"Votes blancs","voix":5648,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1273}}
+{"departement":"Guadeloupe","candidat":"Votes nuls","voix":8510,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1274}}
+{"departement":"Martinique","candidat":"Jean-Luc MELENCHON","voix":29958,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1275}}
+{"departement":"Martinique","candidat":"Emmanuel MACRON","voix":27951,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1276}}
+{"departement":"Martinique","candidat":"François FILLON","voix":18444,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1277}}
+{"departement":"Martinique","candidat":"Marine LE PEN","voix":11975,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1278}}
+{"departement":"Martinique","candidat":"Benoît HAMON","voix":10673,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1279}}
+{"departement":"Martinique","candidat":"Philippe POUTOU","voix":3230,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1280}}
+{"departement":"Martinique","candidat":"Nicolas DUPONT-AIGNAN","voix":2340,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1281}}
+{"departement":"Martinique","candidat":"Nathalie ARTHAUD","voix":2257,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1282}}
+{"departement":"Martinique","candidat":"François ASSELINEAU","voix":1407,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1283}}
+{"departement":"Martinique","candidat":"Jean LASSALLE","voix":871,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1284}}
+{"departement":"Martinique","candidat":"Jacques CHEMINADE","voix":374,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1285}}
+{"departement":"Martinique","candidat":"Votes blancs","voix":8132,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1286}}
+{"departement":"Martinique","candidat":"Votes nuls","voix":6345,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1287}}
+{"departement":"Guyane","candidat":"Jean-Luc MELENCHON","voix":6633,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1288}}
+{"departement":"Guyane","candidat":"Marine LE PEN","voix":6519,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1289}}
+{"departement":"Guyane","candidat":"Emmanuel MACRON","voix":5031,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1290}}
+{"departement":"Guyane","candidat":"François FILLON","voix":3934,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1291}}
+{"departement":"Guyane","candidat":"Benoît HAMON","voix":1528,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1292}}
+{"departement":"Guyane","candidat":"Philippe POUTOU","voix":1405,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1293}}
+{"departement":"Guyane","candidat":"François ASSELINEAU","voix":480,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1294}}
+{"departement":"Guyane","candidat":"Nicolas DUPONT-AIGNAN","voix":471,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1295}}
+{"departement":"Guyane","candidat":"Nathalie ARTHAUD","voix":462,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1296}}
+{"departement":"Guyane","candidat":"Jean LASSALLE","voix":273,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1297}}
+{"departement":"Guyane","candidat":"Jacques CHEMINADE","voix":98,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1298}}
+{"departement":"Guyane","candidat":"Votes blancs","voix":3747,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1299}}
+{"departement":"Guyane","candidat":"Votes nuls","voix":1344,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1300}}
+{"departement":"La Réunion","candidat":"Jean-Luc MELENCHON","voix":85987,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1301}}
+{"departement":"La Réunion","candidat":"Marine LE PEN","voix":82219,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1302}}
+{"departement":"La Réunion","candidat":"Emmanuel MACRON","voix":66292,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1303}}
+{"departement":"La Réunion","candidat":"François FILLON","voix":60508,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1304}}
+{"departement":"La Réunion","candidat":"Benoît HAMON","voix":26872,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1305}}
+{"departement":"La Réunion","candidat":"Nicolas DUPONT-AIGNAN","voix":10123,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1306}}
+{"departement":"La Réunion","candidat":"François ASSELINEAU","voix":6029,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1307}}
+{"departement":"La Réunion","candidat":"Nathalie ARTHAUD","voix":5190,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1308}}
+{"departement":"La Réunion","candidat":"Philippe POUTOU","voix":4376,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1309}}
+{"departement":"La Réunion","candidat":"Jean LASSALLE","voix":1939,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1310}}
+{"departement":"La Réunion","candidat":"Jacques CHEMINADE","voix":944,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1311}}
+{"departement":"La Réunion","candidat":"Votes blancs","voix":11468,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1312}}
+{"departement":"La Réunion","candidat":"Votes nuls","voix":13305,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1313}}
+{"departement":"Saint-Pierre-et-Miquelon","candidat":"Jean-Luc MELENCHON","voix":933,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1314}}
+{"departement":"Saint-Pierre-et-Miquelon","candidat":"Marine LE PEN","voix":478,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1315}}
+{"departement":"Saint-Pierre-et-Miquelon","candidat":"Emmanuel MACRON","voix":473,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1316}}
+{"departement":"Saint-Pierre-et-Miquelon","candidat":"François FILLON","voix":261,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1317}}
+{"departement":"Saint-Pierre-et-Miquelon","candidat":"Benoît HAMON","voix":217,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1318}}
+{"departement":"Saint-Pierre-et-Miquelon","candidat":"Nicolas DUPONT-AIGNAN","voix":79,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1319}}
+{"departement":"Saint-Pierre-et-Miquelon","candidat":"Philippe POUTOU","voix":64,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1320}}
+{"departement":"Saint-Pierre-et-Miquelon","candidat":"Jean LASSALLE","voix":54,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1321}}
+{"departement":"Saint-Pierre-et-Miquelon","candidat":"François ASSELINEAU","voix":36,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1322}}
+{"departement":"Saint-Pierre-et-Miquelon","candidat":"Nathalie ARTHAUD","voix":28,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1323}}
+{"departement":"Saint-Pierre-et-Miquelon","candidat":"Jacques CHEMINADE","voix":9,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1324}}
+{"departement":"Saint-Pierre-et-Miquelon","candidat":"Votes blancs","voix":70,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1325}}
+{"departement":"Saint-Pierre-et-Miquelon","candidat":"Votes nuls","voix":26,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1326}}
+{"departement":"Mayotte","candidat":"François FILLON","voix":10912,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1327}}
+{"departement":"Mayotte","candidat":"Marine LE PEN","voix":9130,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1328}}
+{"departement":"Mayotte","candidat":"Emmanuel MACRON","voix":6403,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1329}}
+{"departement":"Mayotte","candidat":"Jean-Luc MELENCHON","voix":2808,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1330}}
+{"departement":"Mayotte","candidat":"Benoît HAMON","voix":1454,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1331}}
+{"departement":"Mayotte","candidat":"Nicolas DUPONT-AIGNAN","voix":1030,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1332}}
+{"departement":"Mayotte","candidat":"Philippe POUTOU","voix":629,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1333}}
+{"departement":"Mayotte","candidat":"François ASSELINEAU","voix":411,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1334}}
+{"departement":"Mayotte","candidat":"Nathalie ARTHAUD","voix":336,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1335}}
+{"departement":"Mayotte","candidat":"Jean LASSALLE","voix":190,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1336}}
+{"departement":"Mayotte","candidat":"Jacques CHEMINADE","voix":166,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1337}}
+{"departement":"Mayotte","candidat":"Votes blancs","voix":960,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1338}}
+{"departement":"Mayotte","candidat":"Votes nuls","voix":1744,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1339}}
+{"departement":"Saint-Martin Saint-Barthélemy","candidat":"François FILLON","voix":2518,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1340}}
+{"departement":"Saint-Martin Saint-Barthélemy","candidat":"Marine LE PEN","voix":1834,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1341}}
+{"departement":"Saint-Martin Saint-Barthélemy","candidat":"Emmanuel MACRON","voix":1572,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1342}}
+{"departement":"Saint-Martin Saint-Barthélemy","candidat":"Jean-Luc MELENCHON","voix":1153,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1343}}
+{"departement":"Saint-Martin Saint-Barthélemy","candidat":"Benoît HAMON","voix":247,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1344}}
+{"departement":"Saint-Martin Saint-Barthélemy","candidat":"Nicolas DUPONT-AIGNAN","voix":216,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1345}}
+{"departement":"Saint-Martin Saint-Barthélemy","candidat":"François ASSELINEAU","voix":112,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1346}}
+{"departement":"Saint-Martin Saint-Barthélemy","candidat":"Philippe POUTOU","voix":92,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1347}}
+{"departement":"Saint-Martin Saint-Barthélemy","candidat":"Jean LASSALLE","voix":68,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1348}}
+{"departement":"Saint-Martin Saint-Barthélemy","candidat":"Nathalie ARTHAUD","voix":35,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1349}}
+{"departement":"Saint-Martin Saint-Barthélemy","candidat":"Jacques CHEMINADE","voix":18,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1350}}
+{"departement":"Saint-Martin Saint-Barthélemy","candidat":"Votes blancs","voix":211,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1351}}
+{"departement":"Saint-Martin Saint-Barthélemy","candidat":"Votes nuls","voix":107,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1352}}
+{"departement":"Wallis-et-Futuna","candidat":"Emmanuel MACRON","voix":1630,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1353}}
+{"departement":"Wallis-et-Futuna","candidat":"François FILLON","voix":1526,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1354}}
+{"departement":"Wallis-et-Futuna","candidat":"Benoît HAMON","voix":1349,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1355}}
+{"departement":"Wallis-et-Futuna","candidat":"Marine LE PEN","voix":380,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1356}}
+{"departement":"Wallis-et-Futuna","candidat":"Jean-Luc MELENCHON","voix":192,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1357}}
+{"departement":"Wallis-et-Futuna","candidat":"Nicolas DUPONT-AIGNAN","voix":79,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1358}}
+{"departement":"Wallis-et-Futuna","candidat":"Nathalie ARTHAUD","voix":54,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1359}}
+{"departement":"Wallis-et-Futuna","candidat":"François ASSELINEAU","voix":50,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1360}}
+{"departement":"Wallis-et-Futuna","candidat":"Philippe POUTOU","voix":41,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1361}}
+{"departement":"Wallis-et-Futuna","candidat":"Jean LASSALLE","voix":29,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1362}}
+{"departement":"Wallis-et-Futuna","candidat":"Jacques CHEMINADE","voix":18,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1363}}
+{"departement":"Wallis-et-Futuna","candidat":"Votes blancs","voix":35,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1364}}
+{"departement":"Wallis-et-Futuna","candidat":"Votes nuls","voix":28,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1365}}
+{"departement":"Polynésie Française","candidat":"François FILLON","voix":26683,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1366}}
+{"departement":"Polynésie Française","candidat":"Marine LE PEN","voix":24599,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1367}}
+{"departement":"Polynésie Française","candidat":"Emmanuel MACRON","voix":11128,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1368}}
+{"departement":"Polynésie Française","candidat":"Jean-Luc MELENCHON","voix":5951,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1369}}
+{"departement":"Polynésie Française","candidat":"Benoît HAMON","voix":2203,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1370}}
+{"departement":"Polynésie Française","candidat":"Nicolas DUPONT-AIGNAN","voix":1767,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1371}}
+{"departement":"Polynésie Française","candidat":"François ASSELINEAU","voix":1205,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1372}}
+{"departement":"Polynésie Française","candidat":"Philippe POUTOU","voix":755,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1373}}
+{"departement":"Polynésie Française","candidat":"Nathalie ARTHAUD","voix":690,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1374}}
+{"departement":"Polynésie Française","candidat":"Jean LASSALLE","voix":447,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1375}}
+{"departement":"Polynésie Française","candidat":"Jacques CHEMINADE","voix":201,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1376}}
+{"departement":"Polynésie Française","candidat":"Votes blancs","voix":1754,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1377}}
+{"departement":"Polynésie Française","candidat":"Votes nuls","voix":2038,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1378}}
+{"departement":"Nouvelle-Calédonie","candidat":"François FILLON","voix":27065,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1379}}
+{"departement":"Nouvelle-Calédonie","candidat":"Marine LE PEN","voix":25290,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1380}}
+{"departement":"Nouvelle-Calédonie","candidat":"Emmanuel MACRON","voix":11089,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1381}}
+{"departement":"Nouvelle-Calédonie","candidat":"Benoît HAMON","voix":8125,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1382}}
+{"departement":"Nouvelle-Calédonie","candidat":"Jean-Luc MELENCHON","voix":7703,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1383}}
+{"departement":"Nouvelle-Calédonie","candidat":"Nicolas DUPONT-AIGNAN","voix":2521,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1384}}
+{"departement":"Nouvelle-Calédonie","candidat":"François ASSELINEAU","voix":2098,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1385}}
+{"departement":"Nouvelle-Calédonie","candidat":"Philippe POUTOU","voix":1284,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1386}}
+{"departement":"Nouvelle-Calédonie","candidat":"Nathalie ARTHAUD","voix":836,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1387}}
+{"departement":"Nouvelle-Calédonie","candidat":"Jean LASSALLE","voix":695,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1388}}
+{"departement":"Nouvelle-Calédonie","candidat":"Jacques CHEMINADE","voix":240,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1389}}
+{"departement":"Nouvelle-Calédonie","candidat":"Votes blancs","voix":2969,"tour":1}
+{"index":{"_index":"elections","_type":"act","_id":1390}}
+{"departement":"Nouvelle-Calédonie","candidat":"Votes nuls","voix":1311,"tour":1}
